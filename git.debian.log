@@ -1,0 +1,5034 @@
+commit 1a4e132a1648e0e5684fe7a7b0a4e17509eaebdc (HEAD -> refs/heads/master, refs/remotes/origin/master, refs/remotes/origin/HEAD)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Apr 3 08:33:09 2022 +1000
+
+    copyright years update
+
+commit 62e6e3355c8b2ae69a58946c2bbe7096d36a4ac4 (tag: refs/tags/debian/4.8.28-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Apr 3 08:19:07 2022 +1000
+
+    New upstream release
+
+commit 2681ca1fae8cf840f6ae431a81a824a15357e1b4
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Sep 4 12:33:21 2021 +1000
+
+    Replaced transitional "mime-support" with "mailcap" (Closes: #991780).
+    
+     Thanks, Thomas Uhle.
+
+commit 6247c4a03df3dd7d725c8bf4acb8d2b295f64455 (tag: refs/tags/debian/4.8.27-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Sep 3 04:13:09 2021 +1000
+
+    New upstream release + changelog summary.
+
+commit 50a16f48f3a746a79913d3c1949c947f8a0212f3
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Sep 3 03:27:04 2021 +1000
+
+    Standards-Version: 4.6.0
+
+commit 0ec73d5b0806af73002b3373e99a15e9d0835be6
+Author: Thorsten Glaser <tg@mirbsd.de>
+Date:   Fri Sep 3 03:26:16 2021 +1000
+
+    Acknowledged NMU.
+
+commit 8089c5665202147f210ee7dae13850a9f19bc14b (tag: refs/tags/debian/4.8.26-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Feb 1 12:51:07 2021 +1100
+
+    New upstream release
+
+commit d09c80eb4266dec655a9f6a5ce5bb91122b6003c (tag: refs/tags/debian/4.8.25-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Oct 3 01:04:13 2020 +1000
+
+    minor copyright update
+
+commit 6d898bbe091ee025418a74a3c9b6ec5eee80e7d0
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Oct 2 21:21:21 2020 +1000
+
+    New upstream release + changelog summary
+
+commit ec35da1df0646b967b1f1a8b8235af57ef86d0ae
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Oct 2 18:10:42 2020 +1000
+
+    Recommends += sensible-utils
+
+commit 2144228d1718a124848491b64b49285bbe12792a
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 4 00:46:52 2020 +1100
+
+    mcedit: new upstream patch to remove subshell warning.
+
+commit b70c477133baef9080498a02004c52ee3bf17ec4
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Jan 26 08:33:54 2020 +1100
+
+    Set "Rules-Requires-Root: binary-targets".
+
+commit ac712703b1cd0df90826fc356c5c0ebba536222f
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Jan 26 08:31:07 2020 +1100
+
+    copyright: removed unused paragraphs.
+
+commit f83e36eecb3194d7dfb469524adfb4466eef2c0a (tag: refs/tags/debian/4.8.24-2)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Jan 26 08:24:08 2020 +1100
+
+    changelog summary
+
+commit 41d64636241a4be8bd6c42dc7f16d9697f2f5868
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Jan 25 19:52:42 2020 +1100
+
+    New upstream patch to fix browsing of .DEB packages (Closes: #949700).
+
+commit 79927befbfe676eb805119665751e7cba3da6e05 (tag: refs/tags/debian/4.8.24-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Jan 22 12:13:22 2020 +1100
+
+    New upstream release + changelog summary
+
+commit b805fb8a1a83c7c7bbfbff810677fe5e74c7ea8f
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Jan 22 12:12:54 2020 +1100
+
+    CI: re-factored
+
+commit 81c734417916a04735b21a23f1cedc81ff7f4b45
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Jan 22 11:51:16 2020 +1100
+
+    DH-compat
+
+commit 54a59e947e0a83fc4d1032a86f9b0b5ce3fabdaa
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Jan 22 11:42:13 2020 +1100
+
+    Standards-Version: 4.5.0
+
+commit 1da48954a46e212927e39c963895aad0ba6666a4 (tag: refs/tags/debian/4.8.23-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Aug 23 12:29:26 2019 +1000
+
+    New upstream release + changelog summary.
+
+commit 50cec18090479e90c501213eeaf2880b65c49fac
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Aug 23 12:16:33 2019 +1000
+
+    CI: clean-up CI files on build
+
+commit 94ac78927c117f7347f628d6f246d6415c2d8f61
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Aug 23 12:09:38 2019 +1000
+
+    CI: stretch --> buster
+
+commit bac6cd09739e64341fb11ab49367a938058613bb
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Aug 23 12:07:35 2019 +1000
+
+    DH & compat to version 12.
+
+commit ae17a169d9fe6fd69939d53c6bd42a9676cd6192
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Aug 23 12:07:08 2019 +1000
+
+    removed source compression options.
+
+commit 179306e5fdea1a05520fd5dbb5bb2793bd4adad0
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Aug 23 12:06:52 2019 +1000
+
+    Standards-Version: 4.4.0
+
+commit e056430cf04fe9e1204dd96d39ae5c1f8fd5935b (tag: refs/tags/debian/4.8.22-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Jan 19 00:15:49 2019 +1100
+
+    copyright: added Expat paragraph
+
+commit 39935f3ddcabc69a205b99c7fd47d5400d022d13
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Jan 19 00:11:47 2019 +1100
+
+    New upstream release + changelog summary
+
+commit c079acbfedc446a715f65761c3d8e4aaed178fe7
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Jan 19 00:10:13 2019 +1100
+
+    Standards-Version: 4.3.0
+
+commit 151de8296debaa7e9aa4885063672b22de88a355
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Jan 19 00:09:28 2019 +1100
+
+    CI update
+
+commit 9b55714f7769503c0df9f981a7d7bab1391d4e0a
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Jan 18 23:51:54 2019 +1100
+
+    Suggests += "epub-utils"
+
+commit ec0c92962c43c2d6d5e04ea3428bf3808f028584
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Jun 6 15:08:28 2018 +1000
+
+    CI: build on Stretch too.
+
+commit 59e399ea169ed3b8c942577d2fc7f55ce673210a (tag: refs/tags/debian/4.8.21-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Jun 6 14:54:54 2018 +1000
+
+    New upstream release [4.8.21] + changelog summary.
+
+commit 24eb7cbbab3fc8f5f4c90903877c8a866cd474db
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Jun 6 14:12:56 2018 +1000
+
+    CI: minor update
+
+commit e33ce7f189eb6cad5c465221cb0886dda6be5e0c
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Jun 6 14:12:02 2018 +1000
+
+    Standards-Version: 4.1.4
+
+commit ae7fbe478fd1ef7ae0b858e73ab8498e66e5e946
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Jun 6 14:10:09 2018 +1000
+
+    Set myself as Maintainer (Closes: #899775).
+
+commit cc463138648f581a92186febe850a1f4bbf34df1
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri May 4 19:15:44 2018 +1000
+
+    rules: removed "--parallel" which is implied on DH/compat v11.
+
+commit 9694d54144549ce9cb63680fa62c91455bf6886a
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri May 4 19:11:30 2018 +1000
+
+    removed needless dependency versioning
+
+commit 01293079ddfb90c3ee3ebcc77cdbb34298b32ea5
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri May 4 19:09:57 2018 +1000
+
+    Updated Vcs URLs to Salsa
+
+commit de781f76b7a813633cb7cb57e96e1e61c8d56641
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri May 4 09:48:19 2018 +1000
+
+    CI: more tests
+
+commit 876960dff30b0b1a9bdb25700d499957b44bbcd4
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Apr 9 00:35:24 2018 +1000
+
+    CI: initial commit, cme checks.
+
+commit 1317fee72e24965ea45f9514c0b438e94657ecf2 (tag: refs/tags/debian/4.8.20-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Mar 4 16:42:20 2018 +1100
+
+    New upstream release [4.8.20] + changelog summary.
+
+commit b170c0652ce75dd3a1f72f76503abee3895fa160
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Mar 4 16:30:22 2018 +1100
+
+    rules: removed call to dpkg-parsechangelog.
+
+commit dc6a4599e8748a0f9edb1492d5ded28c9def8a35
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Mar 4 16:18:08 2018 +1100
+
+    Debhelper & compat to version 11.
+
+commit fe19469f578977f221d7760f28217b3ec48f7893
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Mar 4 16:12:42 2018 +1100
+
+    Standards-Version: 4.1.3
+
+commit 00238bf8af2352dd5700d7bfaacb92502a2ab7ac
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Mar 4 16:11:13 2018 +1100
+
+    renamed-tag debian-watch-may-check-gpg-signature => debian-watch-does-not-check-gpg-signature
+
+commit 36995e505b04c3701b1936dc4b8ef4b60684ad99 (tag: refs/tags/debian/4.8.19-1)
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Fri Aug 4 23:04:39 2017 +0200
+
+    ready to upload
+
+commit 74b76439264e33402b422e4feff3d913c413017b
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Wed Jul 12 22:47:18 2017 +0200
+
+    add Yuriy M. Kaminskiy patch
+
+commit ec58ecbc3fdf6036fe03bb05cc051f856ef7895d
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Wed Jul 12 22:32:44 2017 +0200
+
+    update closed bugs
+
+commit 62131cc345109d0c6a84478b92a0e977ffe93c4f
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Wed Jul 12 20:58:37 2017 +0200
+
+    use secure URI for upstream web site
+
+commit cacced78a67a8de40533014fda4ebab2ee9d9130
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Wed Jul 12 20:56:49 2017 +0200
+
+    bump standard to 4.0.0
+
+commit f409957abc45a4ba16eb314e379439041cb6005d
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Sun Jul 9 17:10:00 2017 +0200
+
+    Fix some spelling errors in manpage
+
+commit 6d3c139d9f564ddd70b9003d108a75e885f05a5f
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Sun Jul 9 15:37:35 2017 +0200
+
+    remove Winnie from Uploaders list... MIA
+
+commit 10e23f12e11cea9e215e1e954f50725faa4379bf
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Thu Jun 29 23:29:05 2017 +0200
+
+    refresh and update patches with new upltream release.
+
+commit 044a9495a2f5bb2ecfcea2343f56174aec3c157d
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Oct 17 12:31:54 2016 +1100
+
+    Build-Depends: debhelper (>= 9.20160403~)
+    
+    Bump debhelper versioning to ensure --dbgsym-migration availability.
+
+commit 12f9a259a0abf4d521a10f2935667e4dc1493c0c (tag: refs/tags/debian/4.8.18-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Oct 17 10:01:56 2016 +1100
+
+    New upstream release [4.8.18] + changelog summary
+
+commit 204bd8e64a38cc105db96643459543921b9f80a7
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Oct 17 09:44:17 2016 +1100
+
+    Fixed Vcs-Git URL.
+
+commit bf74d1db7da4b5f3f5e51a5582f47c5192efa6d3
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Jul 11 13:34:19 2016 +1000
+
+    Suggests += "libaspell-dev"
+    
+     mcedit needs libaspell for spellchecking functionality.
+     -dev package is required because mcedit is looking for "libaspell.so".
+
+commit 5a418291f9e0aa115c4adcda3ca949ca332e9128
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Jul 11 01:24:26 2016 +0200
+
+    Update repository in debian/watch (thanks Yury)
+
+commit 5c065b0b186849eb885b8b1d57d33b0fa1a82fdd (tag: refs/tags/debian/4.8.17-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon May 9 08:40:23 2016 +1000
+
+    upload to unstable
+
+commit 67df9150664fb64a07a90c591227f40f70860acb
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon May 9 08:35:37 2016 +1000
+
+    Remove obsolete conffile "/etc/mc/mc.menu.sr".
+
+commit 15aef9e1be018b92fa6945a966877662ee7fcaef
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon May 9 07:46:04 2016 +1000
+
+    minor copyright correction
+
+commit 680fb28616fcc6f032208b4bdfb1332ee363ceb4
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun May 8 22:53:07 2016 +1000
+
+    New upstream release [4.8.17] + changelog summary
+
+commit b81ec5ed41245cf80af63c4d8610dd7b8d5d2012
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun May 8 21:37:52 2016 +1000
+
+    Standards-Version: 3.9.8
+
+commit 578979baa1179c31e63ab45487f3fd45b36f11c0
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun May 8 21:36:13 2016 +1000
+
+    Modernise Vcs-Browser URL
+
+commit 97bfe6ad0874d346b292e70dd37bf3d58505ba78
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun May 8 21:34:00 2016 +1000
+
+    dbgsym-migration: dropped "mc-dbg" package.
+
+commit 4ade5c18589786326c1919983a864c7e308249ba
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Mar 25 15:35:28 2016 +1100
+
+    Standards-Version: 3.9.7
+
+commit b43eae97bf8778d223bf12c1cf43ebb215ebc3c3
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Mar 25 15:33:43 2016 +1100
+
+    3611.patch: Thanks, Yury V. Zaytsev.
+
+commit a203d6253e1964e4e6ddec42f30298268de0189c
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Mar 25 15:29:18 2016 +1100
+
+    update 2987.patch
+
+commit f9dba87ba58c67c45c5f901c1dbf1dfc8e8bdd15
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Thu Mar 24 00:53:31 2016 +0100
+
+    update changelog
+
+commit b3f1141d099c376d84c43bbea3aac17b993358fa
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Thu Mar 24 00:11:23 2016 +0100
+
+    Fix spelling error in manpage s/interpeted/interpreted
+
+commit 06689bbd7798bb13d9778ca5534a1da3b6767246
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Thu Mar 24 00:03:53 2016 +0100
+
+    Add https for Vcs-Browser URI in debian/control
+
+commit a6304e9ba3f22ffa5590d00fecda223d5e66e79b
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Wed Mar 23 23:10:05 2016 +0100
+
+    remove merged patches and refresh others
+
+commit 42d1e6a65d88b9007bff3495f3bf01e471f0b4ae
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Wed Mar 23 22:12:52 2016 +0100
+
+    update changelog new upstream version
+
+commit 83b1beaa300d4441c3a9ae7abd79770b0f1331ba
+Author: Andreas Tille <tille@debian.org>
+Date:   Wed Feb 17 21:45:17 2016 +0100
+
+    Revert "Enable pressing <enter> on JAR files to see its content"
+    
+    This reverts commit 610adc9d7a7b0db643c094bbe110ee5ff65314a3.
+
+commit 31525316f5a5ea47fdfd65d57bf14f1d63611e68
+Author: Andreas Tille <tille@debian.org>
+Date:   Wed Feb 17 21:44:26 2016 +0100
+
+    Revert "Closes statement for JAR file bug"
+    
+    This reverts commit 8bbff9cb587b4977b404ffb90163feac3bcec61e.
+
+commit 8bbff9cb587b4977b404ffb90163feac3bcec61e
+Author: Andreas Tille <tille@debian.org>
+Date:   Tue Feb 16 12:54:28 2016 +0100
+
+    Closes statement for JAR file bug
+
+commit 610adc9d7a7b0db643c094bbe110ee5ff65314a3
+Author: Andreas Tille <tille@debian.org>
+Date:   Tue Feb 16 12:48:05 2016 +0100
+
+    Enable pressing <enter> on JAR files to see its content
+
+commit 1e465ee48696a19eca9d031a4a8f29eea982362e (tag: refs/tags/debian/4.8.15-2)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Dec 22 15:19:43 2015 +1100
+
+    changelog summary
+
+commit 76f6a37ee6f5fc2ea87744bc0aae05047b928462
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Dec 22 15:18:50 2015 +1100
+
+    fix build with "debuild -A" (Closes: #806076).
+
+commit c335e2b4ede9a7dd98308bedf5f044bd705b31bc
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Sun Dec 20 00:22:24 2015 +0100
+
+    pedantic change on changelog, lintian is now happy :)
+
+commit 07134e1660311af85e4df7c29a5ae42319bea55e
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Sun Dec 20 00:16:25 2015 +0100
+
+    undo removing line into mc.maintscript
+
+commit ea4c99df7140ab51bad5175ce516fa5a02fae093
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Sat Dec 19 23:19:10 2015 +0100
+
+    remove debian/mc.menu file
+
+commit e92a3d24e2cf9ff5d3d1a42ea78d01a41d950600
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Nov 13 02:21:45 2015 +1100
+
+    patch: update man page when change default
+
+commit e8700833c3afaed07e0b098028ce37e6eb5248bb (tag: refs/tags/debian/4.8.15-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Nov 12 18:12:41 2015 +1100
+
+    New "mcedit_full_path.patch" to show full path to the file in 'mcedit'.
+
+commit 9f80d8edabf377b57baeb491e6eab9d68d41e89b
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Nov 12 17:42:11 2015 +1100
+
+    new patch to fix FTBFS in "update-po"
+
+commit 8e8a570f29d71b637100b580c63f1093fed0383d
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Nov 12 17:13:23 2015 +1100
+
+    New upstream release [4.8.15] + changelog summary
+
+commit 43746bd8220adafd2b26b98dfc80788e120e6c4e
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Sun May 3 00:49:10 2015 +0200
+
+    prepare unstable version
+
+commit 1766f524aa1bd59405748ca28cc3b8bd0e4cabb5
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Apr 26 14:44:42 2015 +1000
+
+    handle conffile removal from maintscript
+
+commit 65f848b017c1d40b7868e05fc8f55760df81ee61 (tag: refs/tags/debian/4.8.14-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Mar 25 12:20:39 2015 +1100
+
+    changelog summary + minor 4.8.14 updates
+
+commit e1c921af06890d0bef3ca19c08fbf04365b72791
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Mar 25 12:19:25 2015 +1100
+
+    get-orig-source: policy §4.9 compliance
+
+commit be245b07f3bd6d8d07840ca51c6792cfa2d29292
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Mar 25 12:08:22 2015 +1100
+
+    rules: Drop obsolete override_dh_builddeb
+
+commit eb8fac0e230cf3023ed7e7b212fa2ecf55197cd7
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Tue Mar 24 14:20:38 2015 +0100
+
+    ready for experimental
+
+commit cff231376a9965b57bc3ead0bd4192dcbdcb1bdf
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Mar 23 23:31:34 2015 +0100
+
+    remove trailing whitespaces
+
+commit 64268d96cf0c1ccf30c4c95539116dfbfcfa3cf8
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Mar 23 23:04:23 2015 +0100
+
+    fix changelog line too long
+
+commit 99755fdd2ef9c51e116dda4a4ef8d79b30d8b830
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Mar 23 22:46:19 2015 +0100
+
+    Update use_sensible-editor.patch
+
+commit 02de1ae7e6569f8fbdb462d5bd8b2419f7d57805
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Mar 23 22:35:52 2015 +0100
+
+    Revert "update use_sensible-editor.patch"
+    
+    This reverts commit 6850428ce3eaf508b11f5965b17f3fb13aee2abf.
+
+commit 6850428ce3eaf508b11f5965b17f3fb13aee2abf
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Mar 23 22:31:55 2015 +0100
+
+    update use_sensible-editor.patch
+
+commit d31b6ff6d03686cd886c0e287bd5b943b69af3c1
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Mar 23 22:13:55 2015 +0100
+
+    remove pot.patch
+
+commit d673658741690d97169e763358675be578db2535
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Mar 23 21:57:55 2015 +0100
+
+    remove merged upstream patches
+
+commit e154cb5a5a479dfdfa6909f87fea9d58a28bf4c2
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Mar 23 21:44:12 2015 +0100
+
+    update changelog #764226 + #663136
+
+commit 932878621ec5ecd060ec198b52e161f55352fa01
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Mar 23 18:24:49 2015 +0100
+
+    new upstream version
+
+commit 4796d6cb01906b78bc1e55bc42dd1552e74f01a4
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Feb 23 17:08:51 2015 +0100
+
+    add mcedit icon
+
+commit 1e1f1204b7ae93fa83a9041dd38f8e319497c487
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Feb 23 16:56:25 2015 +0100
+
+    add mcedit into Debian menu
+
+commit fee0e02b823db3f30e4d6eaea92e9984034b6918
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Feb 23 15:51:29 2015 +0100
+
+    update my copyright year and E-mail
+
+commit b2ef31eb0e4b7720c32071193e9a70a63b3d67c0
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Feb 23 15:44:55 2015 +0100
+
+    fix wrong overrides file
+
+commit 9741ace2f713bdca5efe71d1e7f37eda7ed6c03f
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Feb 23 15:21:42 2015 +0100
+
+    Denis Briand goes back into the package devel team.
+
+commit 8c33f4f39854031ba4e2c2cf365b909f22c1a722
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Feb 23 15:10:57 2015 +0100
+
+    add mcedit.desktop file
+
+commit 74d6c9a75f3cb3d0075ab67483e9ecb9cb7eea5b
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Mon Feb 23 12:27:04 2015 +0100
+
+    Add Keywords entry into mc.desktop file
+
+commit 7599fc4d13c4674c5ebe6f23eb387852d70cf7a0
+Author: Denis Briand <debian@denis-briand.fr>
+Date:   Wed Feb 18 16:07:31 2015 +0100
+
+    add lintian override on debian-watch-may-check-gpg-signature
+
+commit 35505cd818c4f07df0828361cf87750ddb2f9eef (tag: refs/tags/debian/4.8.13-3)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Dec 13 21:36:14 2014 +1100
+
+    changelog summary
+
+commit a28ea2946740d3c211aed0a23754ddbe32b98089
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Dec 13 20:47:59 2014 +1100
+
+    New patch to fix bashism in gitfs+ helper (Closes: #772306)
+    
+     Thanks, Raphael Geissert.
+
+commit 26029996d18a4e1b028d2b04c0643a2fbc14ea4a
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Dec 13 20:03:17 2014 +1100
+
+    New patch to use dummy password to prevent hangs on extraction from encrypted ZIP archives (Closes: #772080)
+    
+     Thanks, Dmitry Borisyuk.
+
+commit 515459d31a07d0def167af5a3d2d1f099b5ad9ae
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Dec 13 19:39:04 2014 +1100
+
+    Update translations during build (Closes: #772879)
+
+commit b4489ebc2f46b628c7d9dd6069f812670fb3cf26
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Dec 13 18:28:21 2014 +1100
+
+    New patch to prevent accidental execution of shell command (Closes: #703741)
+    
+     Thanks, Dmitry Borisyuk.
+
+commit 2b8ad105d672014b5736f45edad1c930f38d33d8
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Dec 13 17:35:25 2014 +1100
+
+    New upstream patch to fix loss of destination file when pre-allocation fail (Closes: #767463)
+
+commit 0ce6cb564b4ae7d6ecca53fe4926bac7e1fcab25 (tag: refs/tags/debian/4.8.13-2)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Sep 29 17:16:24 2014 +1000
+
+    changelog summary
+
+commit 3c727d021e05940b1d599d3bc890ed1403188f77
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Sep 29 17:11:50 2014 +1000
+
+    New patch to fix viewing broken man pages (Closes: #700569).
+
+commit 9e48f625e876fd9111af3020cbaa063e669e64f3
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Sep 29 17:01:00 2014 +1000
+
+    Standards-Version: 3.9.6
+
+commit fbcc7702c973f268846623b0e10c91e44fa69a8c (tag: refs/tags/debian/4.8.13-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Sep 9 17:01:39 2014 +1000
+
+    New upstream release [4.8.13] + changelog summary
+
+commit df93afba6551155fc9ad61781f0576846de912d3
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Sep 9 16:36:29 2014 +1000
+
+    Added "debian/gbp.conf"
+
+commit 590605b58deadc3bbf313293203a300dffd3a0bd (tag: refs/tags/debian/4.8.12-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Apr 2 13:09:48 2014 +1100
+
+    changelog summary
+
+commit e6db3765d2012d56ec5a7fbcd044bbec742e77ab
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Apr 2 12:22:47 2014 +1100
+
+    Refreshed thin "modarin" skins
+
+commit 57f38723acfcc22337f7e49229fadfc51d3dfed6
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Apr 2 02:44:39 2014 +1100
+
+    New upstream release [4.8.12] + changelog summary
+
+commit 2f061849a4fd49e1069f867f0f5518da806dde7b
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Apr 2 02:40:16 2014 +1100
+
+    Standards to 3.9.5
+
+commit 585177454cb2557bc79f7f80fec4eea7cbaff60d (tag: refs/tags/debian/4.8.11-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Dec 5 07:58:06 2013 +1100
+
+    New upstream release [4.8.11] + changelog summary
+
+commit b3531ae918287b90e783aaff2b91c4152bf10e24 (tag: refs/tags/debian/4.8.10-4)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Sep 17 22:01:22 2013 +1000
+
+    changelog summary
+
+commit 1b66796883b75c2ec2db79eea0e4ba34a7d07818
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Sep 17 17:30:07 2013 +1000
+
+    New patch to fix progress bar and segfault on copy/move operations. (Closes: #722891)
+
+commit 318c88fffc41574e8ddca6e0e7ccccc8b6fbefec (tag: refs/tags/debian/4.8.10-3)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Sep 14 15:18:04 2013 +1000
+
+    changelog summary
+
+commit f7369acadad74af6cf19d656b3fc2e568245f31d
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Sep 14 15:09:26 2013 +1000
+
+    New 3053.patch to fix FTBFS on GNU Hurd
+
+commit 32dcda43ed0e6262b5149e711f765e6ee5ff5f8a
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Sep 14 05:14:01 2013 +1000
+
+    New backported patch to fix MC#3047 (Closes: #714369).
+
+commit 6382e502926547d08e3ba1b25693b8a8e952547b (tag: refs/tags/debian/4.8.10-2)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Sep 8 13:18:59 2013 +1000
+
+    changelog summary
+
+commit ccf30cb35b7b81744f0779fcc25de50aa73c680b
+Merge: 3b705cb 8da57c2
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Sep 8 13:15:53 2013 +1000
+
+    Merge branch 'experimental'
+
+commit 8da57c20696d5fcea2798895625cf799022c7c94 (refs/remotes/origin/experimental)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Sep 8 13:12:51 2013 +1000
+
+    Enabled verbose build using "--disable-silent-rules".
+
+commit 29cfaee901e643dd4ec4ffc31468d9536eb73045
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Sep 8 13:09:39 2013 +1000
+
+    Consolidated run-mailcap viewer override patches to ext_run-mailcap.patch;
+    extended the latter to use `see` instead of `realplay` to open .ram files.
+
+commit dedcc2006f6207f9efe6dfbf261005a9953755b4
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Sep 8 12:19:43 2013 +1000
+
+    New backported "3070.patch" to fix saving changes in nested archives (Closes: #721961).
+
+commit 14032d84f505bdaf27369f5993b13c681463e375
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Sep 8 10:33:18 2013 +1000
+
+    mc "Provides: mcedit" (Closes: #720938)
+
+commit feb1928083b3ff5284eab4231db7a84037ebb489 (tag: refs/tags/debian/4.8.10-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Aug 3 23:46:16 2013 +1000
+
+    patch to fix "macro `\' not defined" in man pages.
+
+commit f31bce8816a43d8bea75030312d30ccf92d88695
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Aug 3 21:12:05 2013 +1000
+
+    New upstream release [4.8.10] + changelog summary
+
+commit 4c3cc53424b4b52b7d9c41da669885661bdc4437
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Jun 18 03:05:23 2013 +1000
+
+    mc-data: "Multi-Arch: foreign" (Closes: #712243)
+
+commit d41c8ebd0fe3c63d9bdf75b5efb85fa5d096d0d7 (tag: refs/tags/debian/4.8.8-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Jun 10 02:03:28 2013 +1000
+
+    merge changelog from unstable
+
+commit 0a8551fcb2f623956a65ad08769fcc446d2ad11e
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Jun 10 01:39:04 2013 +1000
+
+    changelog update (upload to experimental)
+
+commit ff00c3f5afb9d949db6d799f874294bb65978b0d
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Jun 10 01:35:13 2013 +1000
+
+    imported missing (due to branching) changelog entries for 4.8.3
+
+commit 67239108b8ad38643c9a1b3cf1990da0262765ec
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Jun 6 15:56:28 2013 +1000
+
+    MC#3000: patch to fix "incorrect file size in overwrite dialog"
+
+commit 35ddaf03d0b062719510179a542784b8f2a7a5d1
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun May 19 11:13:35 2013 +1000
+
+    debian/watch: added mirror (Oregon State University)
+
+commit 3b705cb4fcc525075417231bb0718fdb3d781028 (tag: refs/tags/debian/4.8.5-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun May 19 11:02:37 2013 +1000
+
+    upload to unstable
+
+commit d6d7cf2387ea6f4a4e2e54bea3b1c399aa8eb17b
+Merge: c8efd6f be7a72e
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun May 19 10:55:09 2013 +1000
+
+    Merge branch "experimental"
+    
+        commit 'be7a72e'
+    
+    Conflicts:
+            debian/changelog
+            debian/patches/series
+
+commit 3770b0b27c38ea0c6aaf97c54c7878941628f9c6
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Apr 11 17:16:00 2013 +1000
+
+    MC#3001: patch to fix "garbage in subshell prompt"
+
+commit 78406b90db2ccaf1ce84e4f8d3bc257303da2366
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Apr 9 12:20:42 2013 +1000
+
+    new backported patch to fix MC#2991
+
+commit 5be61c45366d14ac117964123e5b25f744037808
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Apr 8 13:32:33 2013 +1000
+
+    Handle renaming of keymap conffiles.
+
+commit b87fc431d49c51153f041c4055f01b1e44aa9aed
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Apr 7 19:01:24 2013 +1000
+
+    New upstream release [4.8.8] + changelog
+
+commit be7a72ef3e408b77bddb5040cc8fd9151b65140e
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Apr 7 18:56:26 2013 +1000
+
+    Suggests: +poppler-utils (provides "/usr/bin/pdftotext")
+
+commit af317e72949b588f020ae60cc1918e3851889078
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Apr 7 17:32:47 2013 +1000
+
+    Suggests: +genisoimage (provides "/usr/bin/isoinfo") (Closes: #701190)
+
+commit 99c4042c8b0bf6512c7e0f6e5cbdcc5aa99f0d6a
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Apr 7 16:53:01 2013 +1000
+
+    removing obsolete "DM-Upload-Allowed: yes"
+
+commit 84e393b49f7be11d26b0ce3610897a75a478ae3f
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Apr 3 14:18:01 2013 +1100
+
+    Standards to 3.9.4
+
+commit b7ee86f9066ab53399edaac5d19100e54ea7f3c6
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Apr 3 14:17:03 2013 +1100
+
+    correcting Vcs headers
+
+commit 4461ba72a6894131419e0a8aef260c4cafd11af1
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Apr 3 14:15:58 2013 +1100
+
+    updating my email address; bumping copyright years
+
+commit c8efd6fa584a1f6efc0f7b1bd40673e1bcab653d
+Author: Dmitry Smirnov <debmain.local>
+Date:   Tue Jan 1 00:42:13 2013 +1100
+
+    new backported patch to fix Panelize (Closes: #694943)
+
+commit d5c42df7cf05f6e8c4a72ba73b47f21bb1a66a18
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Oct 4 11:38:34 2012 +1000
+
+    removing unused patch
+
+commit 1474c15323a3c93c84f06ea6942ca33947c1936b
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Oct 4 11:18:36 2012 +1000
+
+    new patch to fix diff.gz inspection from symlink
+    
+     (Closes: #689258)
+    
+    Conflicts:
+            debian/changelog
+            debian/patches/series
+
+commit d755826edf3afad66cbdbea09c39b522f07f6a7c (tag: refs/tags/debian/4.8.3-10)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Oct 4 11:18:36 2012 +1000
+
+    new patch to fix diff.gz inspection from symlink
+    
+     (Closes: #689258)
+
+commit 0a1c205851e2151adcaca9aaa4ee2f84dd6f668f
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Sep 25 11:23:45 2012 +1000
+
+    Removing obsolete conffile /etc/mc/edit.spell.rc
+    
+     (Closes: #687459)
+
+commit 68646d2134c7bfedd4befe9b1418d5960f0b1aa6
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Sep 24 02:02:17 2012 +1000
+
+    patch to fix ESC+TAB completion on paths starting with "~"
+    
+     (Closes: #688075)
+
+commit 01baecdd4eedb1817b46279772e167fa60931830 (tag: refs/tags/debian/4.8.3-9)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Sep 24 02:02:17 2012 +1000
+
+    patch to fix ESC+TAB completion on paths starting with "~"
+    
+     (Closes: #688075)
+
+commit 8d5212ea22520fe3a16eabfbef78179078d056ab
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Sep 22 22:28:30 2012 +1000
+
+    new patch to override "vi" in mc.ext with "editor"
+
+commit 410e51980f867bd857572c92475cc981a4a98a98
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Sep 14 16:10:23 2012 +1000
+
+    correcting typo
+
+commit ae83339ca0bf4409f6ee49d9e1e6ddebae0c722f
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Sep 14 15:31:38 2012 +1000
+
+    changelog for recent changes
+
+commit 738e9aac15066dc868598a489e83a9036fa97daf
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Sep 14 15:26:49 2012 +1000
+
+    clean some files to allow second build in the same source tree
+
+commit 3076ff6f8f4ef81bae1768082baa21f465daf484
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Sep 14 15:21:34 2012 +1000
+
+    fixing ext.d invocation:
+    
+     '${prefix}' makes into scripts and if not set, mc can't find its archive.sh
+
+commit a35add8b0467aaf99b12fc83fc126ac3835321da
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Sep 13 02:44:06 2012 +1000
+
+    no not fail on post-build tests.
+
+commit c33f312dd7a0c306fa3a190d0a6d19e3c1bc126a
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Sep 13 01:17:38 2012 +1000
+
+    allow fatal errors in post-build tests
+
+commit 6f425ff4bf7c81fd86ad47488d577d273c788ecf
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Sep 13 01:16:13 2012 +1000
+
+    minor changelog update
+
+commit da04f706171910cd5245c1f5c66e135363bca887
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Sep 13 00:53:10 2012 +1000
+
+    force defailt browser (i.e. x-www-browser) on build-time
+
+commit 69eb16379ac6426ae79688be254567b9ee1b487c
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Sep 13 00:52:17 2012 +1000
+
+    properly export LDFLAGS (recommended way)
+
+commit e185ad193cf5afa794614aa61a58a1844986cd4b
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Sep 13 00:36:58 2012 +1000
+
+    new patch to use "Group undo" by default in mcedit
+
+commit ba552a460dcc735e11cb1ad8fedeef25c69b5230
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Sep 13 00:14:05 2012 +1000
+
+    changelog for experimental
+
+commit 8d4c477cf957784a35378be62c4d8c640aa3585e
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Sep 12 23:49:06 2012 +1000
+
+    new patch MC:2881 "two-columns extra offset of cursor after tab character"
+
+commit ec0d27521b08094aea909b3cc5a0891f1a65c1b4
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Sep 12 19:42:41 2012 +1000
+
+    new upstream version [4.8.5]
+
+commit 5433c5effc09c50c3870bad25b52ed35d732e76c (tag: refs/tags/debian/4.8.3-8)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Sep 10 13:08:44 2012 +1000
+
+    patchworks:
+    
+      * New backported patches:
+        + to fix "cannot Copy/Move files with filename encoding change".
+        + to fix "can't create or enter directory ~".
+      * removed obsolete (inactive, incomplete) patch
+
+commit d208e4a0a5c4525879002a51748268d5a1b3c71c (tag: refs/tags/debian/4.8.3-7)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Aug 30 18:55:40 2012 +1000
+
+    minor patch update and changelog for new release
+
+commit 463174b283cb3994e86786d0fe8f5a4555b72201
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Aug 30 18:54:27 2012 +1000
+
+    New backported patches:
+    
+     + to fix bug in shell link history.
+     + to fix incomplete sand256 skin.
+
+commit 087ecba62fb2e5ae62ac80c12f3803e29feb0052 (tag: refs/tags/debian/4.8.3-6)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Aug 25 14:57:30 2012 +1000
+
+    releasing to unstable
+
+commit b6136289b542b194680c89d79cf6ecefdd560074
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Aug 24 23:42:33 2012 +1000
+
+    backported patch to fix "mcedit can't save file in safe mode"
+    
+     (Closes: #673252)
+
+commit 6d6852ba45b50b0a6f8d4b4bad69198efd3b61f1
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Aug 24 23:33:57 2012 +1000
+
+    backported patches to fix "refresh problem in directory tree view"
+    
+     (Closes: #675692)
+
+commit 3e65f0ba2c2520d54a6602540b3ac580da1654d0
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Aug 24 23:24:01 2012 +1000
+
+    xz compression for binary packages
+
+commit 4b0362df09d56890907a3e2acc7db802e874bc1d
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Aug 6 14:13:32 2012 +1000
+
+    closes: #681773
+
+commit 89d9b9060b102c3f9637890ae11f9afd54c802bc (tag: refs/tags/debian/4.8.3-5)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Aug 5 22:50:34 2012 +1000
+
+    minor changelog update
+
+commit 23c78554ecedd94555a6b2072251b8d1fb10d50f
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Aug 5 18:45:23 2012 +1000
+
+    correcting 2800.patch to avoid crash on entering archives.
+
+commit 2523f59832b3c00939ad1f3774eb3dfa26a928e0
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Aug 5 15:34:09 2012 +1000
+
+    changelog note about suggesting 'texlive-binaries'.
+
+commit d6dc75f73f5be3bf6d879a0c93d230f7797bc315
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Aug 5 15:24:30 2012 +1000
+
+    adding new build-dependencies
+
+commit 9a85441984f7ca6256d9a9888f9b042298a5b912
+Merge: 0764ce7 559f1a9
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Aug 5 13:11:28 2012 +1000
+
+    validate and correct md.desktop
+
+commit 0764ce78187792126b179865f9e56c2113430018
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Aug 5 13:10:20 2012 +1000
+
+    changelog update
+
+commit c91fda3737954b0a42cc3b058fa32c5d6ce7129e (tag: refs/tags/debian/4.8.3-4)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Aug 5 11:34:23 2012 +1000
+
+    new backported patches
+
+commit 559f1a9f6efb616452f2162d59a26f6233c4012d
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Aug 5 11:32:41 2012 +1000
+
+    desktop file validated and corrected
+
+commit 06f1db5e9dba3d7a0a1e2a7768140bb3867f8165
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Aug 5 01:39:48 2012 +1000
+
+    New upstream release [4.8.4]
+
+commit e96423a58ed054d02fd8eae1914a4fe8a62e9226 (tag: refs/tags/debian/4.8.3-3)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Wed Jun 27 04:55:32 2012 +1000
+
+    patch to prevent loss of data on copy to full partition #677038.
+
+commit ae04cc344c4f406f3be6281a8c571f4e106de596 (tag: refs/tags/debian/4.8.3-2)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun May 6 14:51:49 2012 +1000
+
+    do not FTBFS on failed post-build tests:
+    
+     At the moment some of upstream post-build tests
+     are not very portable. This is to avoid FTBFS on
+      kfreebsd-i386
+      kfreebsd-amd64
+      s390(x)
+      powerpc
+      ia64
+
+commit 56efc13e13da74ae135bfbd7dbed44bdcea2156a (tag: refs/tags/debian/4.8.3-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun May 6 12:32:54 2012 +1000
+
+    minor changelog update
+
+commit 213a0b88e790bc6706ed1573e880152a62f2ffb2
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue May 1 16:09:05 2012 +1000
+
+    minor patch update
+
+commit 4c630e0dc919b5f80e9724ffaaf7f8c5b3d634d3
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue May 1 11:43:27 2012 +1000
+
+    backportd patch to fix crash on chown
+
+commit 5e5f2e256466866a89d3b9705ff8a1e73bebbdd5
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue May 1 11:36:37 2012 +1000
+
+    updating forwarded patches
+
+commit 893cc889fd3a4f4fedffc5a49a6eeca86c6a472c
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue May 1 11:01:48 2012 +1000
+
+    including missing file (backported) to patch
+
+commit ab4b01ebcda6efa44452b8af30bdfe3b4b883cda
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Apr 30 16:24:05 2012 +1000
+
+    changelog update
+
+commit dfa65a7cdd2aa94e8b65cca114c4d4bdbf9c331a
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Apr 30 16:22:25 2012 +1000
+
+    patchworks:
+    
+     * sort, rename and update
+     * new backported fix_rel_symlink.patch to fix crash on relative symlink creation
+
+commit 4ca2e090c3a0da4c564232d072bc52349ccd6d06
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Apr 28 22:37:35 2012 +1000
+
+    copyright year update
+
+commit 833dc46493d3596c600c9603421baf688ef82759
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Apr 28 20:09:40 2012 +1000
+
+    backported patch for 'Cannot open archive' warning
+    
+     https://www.midnight-commander.org/ticket/2785
+
+commit 4e1cc73ad8dd3bc0c27dd28f7cbed4fee1488c5e
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Apr 24 02:07:34 2012 +1000
+
+    changelog for new release
+
+commit 50dd0a2af5cc4cc80856b9da2dc8c7fd210382e5
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Apr 24 02:04:50 2012 +1000
+
+    source compression to .xz
+
+commit 728d36db632de8a1edf12d24e88feb08ec4c250f
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Apr 24 02:02:57 2012 +1000
+
+    removing '©' characters from copyright file
+
+commit 493aff3f06b367e21e00973f98565cc9add919da
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Apr 24 02:02:17 2012 +1000
+
+    patchworks for new upstream version
+
+commit 23dc0736cfa981f76021428e207e8faf4c5fe35d (tag: refs/tags/debian/4.8.1-4)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Apr 1 15:48:34 2012 +1000
+
+    changelog for new release
+
+commit 2c8a47db1f6adcf12bce9034115106ad89859792
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Apr 1 15:47:38 2012 +1000
+
+    invoke autogen.sh if present in source tree to simplify building from trunk
+
+commit ab4bf82ab4c99a4998998cfced4ac28747629567
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Apr 1 15:46:26 2012 +1000
+
+    patch for #664840 I:"cannot copy zero-length files with [Preallocate space] option"
+
+commit 99c86c13a206e525338db1d51bee9e63799ff050 (tag: refs/tags/debian/4.8.1-3)
+Author: Andreas Tille <tille@debian.org>
+Date:   Fri Mar 16 09:51:35 2012 +0100
+
+    Added changes in README.Debian to changelog
+
+commit 81665dbff41ed0467794ae95672929a40bda4ac2
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Mar 16 13:35:07 2012 +1100
+
+    comments regarding terminal settings for new skins
+
+commit d84a1a6439882c0ab379a15898f00c887bc7f23d
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Mar 12 14:32:43 2012 +1100
+
+    thin variant of 'modarin' skins + utility to generate such skins from default thick ones
+
+commit f3a1158f9123ba1946c6c86bf5e15b114d82f42d
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Mar 12 12:49:52 2012 +1100
+
+    'modarin' skins update
+
+commit 689d45a8e6781de4f8e8816d640e2e056c1f6804
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Fri Mar 2 02:01:22 2012 +1100
+
+    full hardening
+
+commit 66c3ce75c72e493a855e20ca157d5315c66dc227
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Mar 1 17:03:02 2012 +1100
+
+    d-control: 'xpdf-reader' replaced with 'xpdf':
+    
+     no longer suggest transitional package
+
+commit 5fb5ed6ce6848b52c45d057ee5c4c5b70e833656
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Mar 1 15:41:20 2012 +1100
+
+    new beautiful 256 color skins "modarin-1.1" by Oliver Lange
+
+commit cc862e6998604bd53c0f154b8feab789eed6b58c
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Thu Mar 1 15:39:56 2012 +1100
+
+    upstream bug number to ext_libreoffice.patch header
+
+commit f1de88437eba4985f7b81be8bc0ec51eb8c5210a (tag: refs/tags/debian/4.8.1-2)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 16:04:43 2012 +1100
+
+    09_uzip_broken_528239.patch is corrected and annotated
+
+commit f72c44dbefae8fbfe0059ed2f8201dd6f6205060
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 15:48:56 2012 +1100
+
+    dropped 20_wrong_path_to_wrappers.patch:
+    
+     it was breaking correct path to wrappers.
+     file name was chosen precisely ;)
+
+commit 301543be890801cae5288886e23c213481d738b9
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 04:53:36 2012 +1100
+
+    minor NEWS file update (spelling)
+
+commit 3b7673cd9922d12b08ad2ca0361e55601e1d0717
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 04:44:49 2012 +1100
+
+    d-changelog: pre-release update
+
+commit 84348457096239f777292d3e035f401fd19c4c23
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 04:05:22 2012 +1100
+
+    d-control: moving 'perl' to Recommends from Suggests:
+    
+     essential extfs handlers require perl, hence stronger dependency
+
+commit d50047a8361f8266156c75d68c1794b13efc15fd
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 03:35:03 2012 +1100
+
+    adding 'unzip' to build-deps to enforce right zip mode at build-time
+
+commit 8c35d2300ef8e6596c70e16fa776f5c60bb9cc2d
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 02:51:25 2012 +1100
+
+    correction to script's path in man_mc.patch
+
+commit 0e9962cf8e8987be9299dd6636bf4a017e79c6cf
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 02:34:50 2012 +1100
+
+    minor NEWS file update
+
+commit a4370593fce56aae665d9ff2a8fdf7d2600ae169
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 02:09:13 2012 +1100
+
+    deeper backward compatibility workaround
+
+commit 78cf99f2191910ef3748d5c3dab4bf29ffb59ef8
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 01:49:04 2012 +1100
+
+    d-control: removing build-deps controversy:
+    
+     'check' is available on all platforms, there is no reason to
+     disable post-build tests - their failure can be ignored if
+     necessary;
+    
+     libgpm-dev [linux-any] is good enough;
+    
+     not linking with libpam0g-dev so almost certainly not needed.
+
+commit 3bf765f2423983d763efa86339641da0e9ea8da2
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Tue Feb 28 01:43:01 2012 +1100
+
+    removing asterisks from NEWS file as per d-ref 6.3.4
+
+commit 4917255cdfb248da5c210d523b8b56cf067b9b2a
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Feb 27 22:45:59 2012 +1100
+
+    completely drop worthless 03_use_awk.patch (previously disabled)
+
+commit d694052c2fe55f580790a5f512cc45726f50b03e
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Feb 27 21:59:31 2012 +1100
+
+    adding mc.NEWS file with notes about changes in new 4.8 release.
+
+commit 19e7dd8915a33b2376c3b5bcca745c0ae8c491ce
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Feb 27 19:57:11 2012 +1100
+
+    patch to disable "Return does autoindent" by default in mcedit
+
+commit f1e89a56a688ce9e59b48d60c53808a10e12c98e
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Feb 27 18:48:27 2012 +1100
+
+    patch to increase mcedit maximum file size to 128 MiB
+
+commit 1a02dc68837a2b5d80eec87765004a285cdc18e3
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Mon Feb 27 18:46:04 2012 +1100
+
+    d-control: reworked Build-Depends update; dropped "type-handling | not+linux-gnu"
+
+commit 249a727c02d4a76842b1cde3abad86b25a73e03c (tag: refs/tags/debian/4.8.1-1)
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Feb 26 22:24:07 2012 +1100
+
+    few bugs added as (Closes: #NNNNN) to changelog; bugs.txt is removed.
+
+commit 7f89c1877ac92c38df39c124292002046a8898fe
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Feb 26 12:38:36 2012 +1100
+
+    d-rules: introducing get-orig-source
+
+commit 4f6fa3f0c7d65ec80b229f4033e67a2160e787af
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Feb 26 11:47:45 2012 +1100
+
+    mc-links: adding symlink to mc-wrapper.sh for backward compatibility
+    
+     (thanks to Andreas Tille for suggestion)
+
+commit 5b39596f3c45cd39d5109e404fdcef8ada8077a2
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sun Feb 26 11:44:01 2012 +1100
+
+    d-copyright: URL updated according to recent changes
+    
+     added credit to Andreas Tille for bumping standards
+
+commit 84c72757f072ffffd4ba93904ad0958d19c217d2
+Author: Andreas Tille <tille@debian.org>
+Date:   Sat Feb 25 15:31:05 2012 +0100
+
+    Standards-Version set to just released policy 3.9.3 (without creating a new changelog entry for myself)
+
+commit 56ad9e5087fb2309187e3f2fd9356d089b5939f2
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Feb 25 18:03:55 2012 +1100
+
+    d-changelog: minor spelling correction
+
+commit 0a16fe8d498d70fb7bc2c83f7044c6d2049b3e11
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Feb 25 18:00:26 2012 +1100
+
+    d-rules: removing comment about building with libncurses5
+
+commit 1ff216327d8a7559a2f56bd279399ea7d5c2fd1a
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Feb 25 17:06:14 2012 +1100
+
+    preinst/postinst/postrm: added package version to mv_conffile
+    
+     also deleting old files
+
+commit 474a9f7c6b9694987b7e2deb7b4ef16f8b25303f
+Author: Dmitry Smirnov <onlyjob@member.fsf.org>
+Date:   Sat Feb 25 14:35:52 2012 +1100
+
+    repackaging and update; repository moved to collab-maint
+    
+      * New upstream release 4.8.1 [December 2011]
+      * debian/watch
+        • fixed and updated to fetch latest .tar.xz
+      * dropped CDBS, now using debhelper only
+      * debhelper & compat to version 9
+      * dh-autoreconf to update toolchain
+      * intltoolize to refresh Makefile.in.in
+      * debian/control
+        • standards to 3.9.2
+        • added to build-deps:
+          + 'type-handling' as alternative to 'libgpm-dev'
+          + 'libpam0g-dev' optional, used by build system
+          + 'check' to enable upost-build unit tests
+          + 'autopoint' (used by autoreconf)
+        • 'bison' added to Build-Depends-Indep
+           if available, it is used by upstream build system
+           to regenerate some files
+        • added myself to Uploaders
+      * debian/copyright:
+        • updated and converted to DEP-5
+        • added copyrights of debian contributors
+        • audit of upstream licenses/copyrights - all information is included
+      * configure options
+        + --disable-static
+        + --enable-tests
+        - --without-samba (obsolete)
+      * patchworks:
+        • relocated to debian/patches from subdir
+        • new patches:
+          + new man_spelling.patch (lintianisation)
+          + new ext_libreoffice.patch to replace 'ooffice' command
+            with 'libreoffice' - thanks to Osamu Aoki
+            (Closes: #641926 N:"mc.ext updates (xz, libreoffice)")
+          + new ext_cpio-xz.patch to improve .xz support,
+            (thanks to Osamu Aoki)
+        • updated:
+          * 04_add_gem_extension.patch
+          * 05_disable_internal_editor.patch
+          * 08_use_sensible-editor.patch
+          * 99_detect_alt_editor.patch
+        • disabled, to drop later:
+          * 09_uzip_broken_528239.patch
+        • dropped (obsolete)
+          - 03_use_awk.patch
+          - pending/99_enable_reading_debs.patch (applied upstream)
+          - debian/patches/README
+      * updated lintian overrides
+        + added lintian-overrides for executable-not-elf-or-script
+          for files in /usr/lib/mc/fish
+      * install correct ChangeLog
+      * install scripts to /usr/lib/mc
+        (previously was installed to /usr/share/mc)
+      * added link to missing mcdiff.1 man page
+      * dropped man page for mcmfmt (binary is no longer shipped by upstream)
+      * handle configuration files upgrades/removes with
+        dpkg-maintscript-helper in preinst/postinst/postrm
+      * architecture-independent files are separated to 'mc-data' package
+        + added upgrade path with Breaks/Replaces
+        + added symbolic links to link files from /usr/share/doc/mc-data/
+          to /usr/share/doc/mc/
+      * removed 'exit 0' from preinst/postinst/prerm/postrm files
+      * VCS links updated to point at new collab-maint repository
+
+commit 36064ba8686cdb41209caac0a29c54d9cd12fa87
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Nov 9 21:43:02 2010 +0000
+
+    Bugs
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@461 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4debc0da6b1876f28597038e322faad6110e6d6b
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun Oct 31 18:47:11 2010 +0000
+
+    Preparation for 4.7.0.10.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@460 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 28679351978f76cac83e9975fd22a2c43140b6e8
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Sep 11 14:55:03 2010 +0000
+
+    Updated bug list
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@459 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 98a9dcdc85a596ba49fa738a5c239097c2d0c2eb
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Sep 8 13:10:07 2010 +0000
+
+    Work on a new version with some backports
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@458 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4e7715bdcc00fa9d0dbbe9c933a678a67a8ba883
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Wed Sep 8 12:45:57 2010 +0000
+
+    This change is already in 4.7.0.9-1, it's just that I forgot to commit it to the SVN.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@457 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 48253bec3e387ec155f5b6062c3bd1633bd35a52
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Sep 8 12:02:10 2010 +0000
+
+    Change build-dep from < to <<, as < is deprecated
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@456 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 239f34af51c35c01d3d950dacde67f5281ffe8be
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Sep 7 09:48:24 2010 +0000
+
+    Updated changelog to prepare for release
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@455 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2793cfed86be28eac3ca7bda04f81df0409510de
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun Aug 15 15:33:57 2010 +0000
+
+    Even more tar-related bugs
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@453 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 17cc836ad91e63d34ba14c61a695b4d0988aceea
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun Aug 15 13:52:44 2010 +0000
+
+    Tar-related bugs
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@452 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d1523174ccb4699bf60dc737611df3c900a487a6
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun Aug 15 12:56:58 2010 +0000
+
+    Bugs
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@451 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 175e2d37deca0586e7f78a2020cb53509ceabbbd
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Aug 14 23:27:16 2010 +0000
+
+    Bugs
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@450 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 43a6aaa858c99a75de4b1ed590c6d56b5ce56165
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Aug 14 22:50:10 2010 +0000
+
+    LP bug number in changelog
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@449 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2b01ec6c4a8a27ce8a754e87d141ce271844b386
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Aug 14 22:44:45 2010 +0000
+
+    Tightened libslang2 dependency
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@448 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b4b3a5d8f4a988bc38110514a3cd0f5f4ee487a6
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Aug 14 22:42:01 2010 +0000
+
+    Enabled ext2undelfs by default
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@447 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a34a18f19763a4128e5d563bc4bf42c600576d36
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Aug 10 19:29:54 2010 +0000
+
+    Ready for 4.7.0.8-1 upload.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@446 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 31d1eae0defcfee728eb89f5a83f4aa9c8a29e4c
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Aug 10 07:46:55 2010 +0000
+
+    Bugs...
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@445 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1735b8f97df79d15665b57ace1c8e4471b11eba1
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Mon Aug 9 17:28:23 2010 +0000
+
+    Updated changelog before upload
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@444 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 50b5d6cf431533005e5e3a09a38d9c96cb32156f
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Mon Aug 9 16:31:12 2010 +0000
+
+    Added patch to detect that mc was launched from alternatives symlink (editor)
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@443 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ba068087a1c8202f870330ef37720a9aaafc45cb
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Mon Aug 9 13:28:08 2010 +0000
+
+    Updated to the latest Policy.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@442 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 121a91bcecb7a53debabb605f36dbf16ac183968
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Mon Aug 9 13:22:46 2010 +0000
+
+    Updates to the copyright file
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@441 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 344f00f89d6b4e593fa56986baf4bcf9ebdabf4d
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Mon Aug 9 13:14:59 2010 +0000
+
+    Use more wildcards in the install files to simplify eventual upgrade to 4.7.x branch.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@440 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4c1a9b87b91714497edef0c55f8c616badca4119
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Mon Aug 9 13:13:39 2010 +0000
+
+    Remove Debian wrappers around mcview and mcedit that are no longer needed.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@439 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit adff70ca9c3766df53a90c19bd952bbdcd58b90a
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Mon Aug 9 13:05:34 2010 +0000
+
+    Updated the patch series with bug numbers and authors
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@438 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d1cf4a6167459e0064c168f0cc7dd2b21f8ffb46
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri Aug 6 13:27:49 2010 +0000
+
+    Changelog update
+    
+    We need to check out the policy diff for 3.9.0.1 and whether there are
+    bugs from Debian closed by the new release. Later...
+    
+    Also mention the rename of the "be" locale...
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@437 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 02e6e3a78f3cb3c5b279c0ef368450a207a0dd08
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri Jul 30 18:08:18 2010 +0000
+
+    Added a memo to check out for Debian Policy update...
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@435 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 650618cdbfb868a77cada7ac019a1ac24412449e
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Thu Jul 29 18:25:38 2010 +0000
+
+    Updated changelog and temporary removed the fix for #587875.
+    
+    Debian infrastructure is not ready to accept packages with arch
+    wildcards and bug report against mc was pre-mature. When this will be
+    fixed, the patch will be re-introduced.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@434 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d33a53d26c00a0982c14d36df4641bc82656030c
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Jul 28 11:46:47 2010 +0000
+
+    correcty yury's changelog entry a bit, to be more verbose
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@433 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 43e563ec5824f411af8c52d9c1f0a9a03dc46e90
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Jul 10 18:23:48 2010 +0000
+
+    Updated bug status.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@432 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b76d9e7dd0b075a55f4a9818314c86f849977510
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Jul 10 18:23:15 2010 +0000
+
+    Preparing for 4.7.0.7 upload.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@431 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4155843634cbc5bbae01edcb5d947f22217033ad
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Jul 10 15:52:22 2010 +0000
+
+    Removed useless lintian override file
+    
+    This override has to be placed in the binary package via the install
+    script, the file itself is now located in the lintian subfolder.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@429 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 599a9625e382e6d39b1689bdc6c3480cd73218d0
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Jul 6 07:59:31 2010 +0000
+
+    Updated copyright information
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@428 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit e1075ca56993e3a62e69be095e27853060313db3
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri Jul 2 09:06:21 2010 +0000
+
+    Updated bugs.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@427 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9b9550b4b46e176fc2f0c484439ebf961d270093
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri Jul 2 08:51:57 2010 +0000
+
+    Updated the latest version of the Policy and fixed the Depends field.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@422 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 50d97a1471c8cbc11f6ed2b2feb5c634af508cd7
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun Jun 6 17:18:50 2010 +0000
+
+    Conflict.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@420 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit bf37a092121d31a847c60a6fc6d3433b8b28410c
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun Jun 6 17:15:48 2010 +0000
+
+    Grammar fixes.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@419 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 56805ba1bf92614e9efb750cdd1766746668be43
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Jun 6 17:13:39 2010 +0000
+
+    update changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@418 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 60f3e4d36d1f33696b13b5c3f076ccbc8d4cd707
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Jun 6 17:10:25 2010 +0000
+
+    remove icon.xpm
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@417 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8ae8c57d1c0b53d2dff8c1b895547929d72b6e8e
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Jun 6 17:07:17 2010 +0000
+
+    fix issue with dh_install path
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@416 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 647348a45d210f1b093c0410e5a3c07ef73e69fa
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Jun 5 15:48:32 2010 +0000
+
+    More work on the bugs :-( ... still too much open bugs!
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@415 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8bd2b1378c51192f7a2b0cc04a413c4f337fc81f
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Jun 5 10:21:00 2010 +0000
+
+    Package updates for 4.7.0.6:
+    
+    - Added extra spaces to the menu file
+    - Added Lintian override for cons.saver SGID
+    - Icon is installed via install, not rules
+    - Removed leftover dirs from CDBS transition
+    - Removed leftover docs from CDBS transition
+    - Removed unused buid-deps from control
+    - Sorted package-specific docs
+    - Updated changelog
+    - Updated install file to install override
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@414 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1a6f12dab5fbb079ad2780eb11a0f879d48bcc10
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Thu May 20 15:15:50 2010 +0000
+
+    Prevent the build from failing on the platforms where cons.saver isn't getting installed.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@412 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7bbdd11a5f829fd3be93de3470cf859bf44dda6a
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Thu May 20 12:25:25 2010 +0000
+
+    Added bug number.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@411 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit e05e563849347c5b9b24f0ac8b5e84a0c5abbcda
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Thu May 20 12:14:18 2010 +0000
+
+    Fixed path in the rules file and added acks to the changelog.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@410 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d73e0aea1bd70293e229dfc399b1ff63d94fde08
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Thu May 20 09:21:54 2010 +0000
+
+    Implemented the cons.saver solution by Sven Joachim (thanks!).
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@409 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 5569d99b9a91f6906704ef9980dfd01732ae17b6
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue May 18 08:52:59 2010 +0000
+
+    Updated scripts to follow the logic from nagios3: if there are no user
+    overrides, then we can just safely set the SGID bit to cons.saver. If
+    there are some overrides, we'd better not to mess with them.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@408 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit cd05747466a735cc46e814bf4be5e514e2695bf0
+Author: Denis Briand <denis@narcan.fr>
+Date:   Mon May 17 15:15:22 2010 +0000
+
+    put set -e in sh scripts than use -e in the interpreter line.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@407 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit f28a3a9c1e55549408aa5a3a4af7346358054865
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Mon May 17 11:43:38 2010 +0000
+
+    Updated bug status.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@406 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit f185cf7131afa0ea3f45c617209d705ee8378b3f
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri May 7 22:46:02 2010 +0000
+
+    Reworked the postinst / postrm scripts and rules.
+    
+    Now finally the solution to install cons.saver should be canonical. Why
+    the f*ck cons.saver still is not getting included into the Hardy package
+    at all in spite of being succesfully compiled and installed by make
+    escapes my understanding. But I am not sure whether something could be
+    done about it.
+    
+    Thanks to #debian-mentors and #ubuntu-devel.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@405 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 92cd08a71e330b158fad63209230461a317de81a
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri May 7 19:19:43 2010 +0000
+
+    Updated bug list.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@404 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 40e31fa89524d124615798a9ebe45cbcae92132b
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri May 7 19:18:42 2010 +0000
+
+    Updated changelog.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@403 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 615aa50eb91e75534bbfd13a6b3070b72b44d9fa
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri May 7 19:12:39 2010 +0000
+
+    Remove obsolete rules (we don't need to regenerate the buildsys
+    anymore), update rules for cons.saver, fix ./configure options.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@402 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7c36d946bab228199e5fb7e49b706c5d580075f7
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri May 7 19:10:48 2010 +0000
+
+    Updated file lists to take into account file shuffling in the new
+    release.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@401 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit efdd27dc3e9a67cdf3cc0c051f5ae6914e083d1b
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri May 7 19:04:56 2010 +0000
+
+    Replace all the spaces in shell scripts with tabs.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@400 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit f9c94f43443afee5972fb5a3892a99675495db96
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri May 7 19:03:59 2010 +0000
+
+    Added libx11-dev to compile --with-x (it does not entail x as a
+    requirement, because xlibs are loaded dynamically via dlopen).
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@399 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8ffef115f9e97af2c034398ffbea3e51605725a0
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri May 7 09:21:16 2010 +0000
+
+    Rearrange the patches and make the format consistent.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@398 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c22221e25a10aad8c85b0dc28277b1284ee6ac89
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu May 6 18:43:59 2010 +0000
+
+    this version had never been released
+    merge changelog with the pending version.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@397 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d28c319204981147850102920cb463d6ae481b56
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Thu May 6 12:20:10 2010 +0000
+
+    More bugs.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@396 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 197bfa45dcdcf409b76c4666887bf0bf1d80cb07
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu May 6 11:12:39 2010 +0000
+
+    remove a mistake in changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@395 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 31ce963545425654c40a9c998fa5dc9eca8e16ff
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu May 6 11:09:04 2010 +0000
+
+    update changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@394 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1040a92b959a426083e8f80dc9e15080ee977633
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu May 6 10:56:18 2010 +0000
+
+    update changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@393 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c06ddb8f3477fd88eb154fd26f0e7e8b8958035b
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Mon May 3 09:07:14 2010 +0000
+
+    Fixed the changelog bug.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@391 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 5f59402340ef0b3df942ebe29d097fb1bebeb250
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun May 2 18:46:13 2010 +0000
+
+    Update changelog.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@390 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1f355f717d699d97608c44efc8e51b46eb1fa58a
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun May 2 18:37:08 2010 +0000
+
+    ChangeLog patch.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@389 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4c6c29b3a898aec05ed0a28367bdb7a84518275a
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun May 2 11:29:20 2010 +0000
+
+    Even more bugs.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@388 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit cfd1e0494f55d3eb0081bad707d0ca6d99b32115
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Thu Apr 29 08:49:59 2010 +0000
+
+    More bugs...
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@387 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ae92ccabc537938e949e20463f50c585c832efe9
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Wed Apr 28 16:05:39 2010 +0000
+
+    More bugs...
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@386 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit bb5383711915fcc536d90716f8e2a70e25959f98
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Mon Apr 26 19:07:03 2010 +0000
+
+    Updated bugs list and changelog.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@385 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8a1e728df588ba753f5efe406f46cdf21d4dfd1d
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri Apr 16 12:51:01 2010 +0000
+
+    Fixed watch in collaboration with upstream: stable releases only.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@384 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2b4c2de8d34b5b7f0c8eaa33277e7fe25f9affa6
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri Apr 16 11:43:31 2010 +0000
+
+    GLIB1 is not supported anymore, so --with-glib2 is now invalid.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@383 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1be91ecdd6faa8a74988538e672522593bcb5983
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Thu Apr 15 20:27:39 2010 +0000
+
+    Update bugs status.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@382 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9f883b16c7a34d873a6e1b09aa384458c444f086
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun Apr 11 14:55:52 2010 +0000
+
+    More bug triaging...
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@381 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit dbe20baefd2d53cf83e94cf284675a0eac55e82b
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Wed Apr 7 14:45:05 2010 +0000
+
+    #540446 closed manually.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@380 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 137592979c4ffdc258e5eebe73bb8b50ce40f74e
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Wed Apr 7 14:40:01 2010 +0000
+
+    Updated bug list.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@379 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 717eace7b98bd41f70326b3bf83bc13278be07c0
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Apr 6 12:18:15 2010 +0000
+
+    cons.saver permissions.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@378 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1e3099d638c3fc819d47ccd540cdc5a2635cc86c
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Apr 6 11:56:00 2010 +0000
+
+    cons.saver fix (need to check permissions though!)
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@377 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 573a03bd3f1185b665d59b052882a4a718cf991b
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Apr 3 21:09:04 2010 +0000
+
+    Added ./configure option to disable rpath on Linux targets.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@376 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1ac1f2b884f5aee1ae6867040cc03a065a5bfd66
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri Apr 2 12:30:47 2010 +0000
+
+    Updated the changelog, moved bugs to scratch pad (to deal with this
+    later).
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@374 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9729e5bb1d98b999ed6d1777b7d2b31025dca707
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Apr 1 23:20:56 2010 +0000
+
+    changelog should not use to close all bugs.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@372 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2184831d10c43e5c7f818482afe183e02256f2a5
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Thu Apr 1 08:48:01 2010 +0000
+
+    Close bugs fixed in 4.7.0.3... more to come.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@371 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c99dc17e5d1221ffb2a8a5fca35ba153f2ef4eea
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Thu Apr 1 08:07:27 2010 +0000
+
+    Delete man folder, merge README from mailcap branch, update readme,
+    update changelog.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@369 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9854a6c12bfe7f5c21e230b17071d1800c667d4e
+Author: Denis Briand <denis@narcan.fr>
+Date:   Tue Mar 30 22:41:23 2010 +0000
+
+    -remove quilt builddep (because deb source 3)
+    -remove README.source file
+    -update changelog (ready for upload)
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@368 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 6d57a282ded2279791eb9c7b8ffe11b231d448d5
+Author: Denis Briand <denis@narcan.fr>
+Date:   Tue Mar 30 21:04:05 2010 +0000
+
+    -remove patch
+    -update patches
+    -bump standards
+    -update patches series
+    -update changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@367 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a6fa9d9ab9d423ad34536f69f31f568d31d19397
+Author: Denis Briand <denis@narcan.fr>
+Date:   Tue Mar 30 20:49:00 2010 +0000
+
+    bump upstream version
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@366 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit f0f00e1eef012c14873e226e5964c93e36e31f55
+Author: Denis Briand <denis@narcan.fr>
+Date:   Mon Jan 18 11:43:30 2010 +0000
+
+    update clean target: rm -f config.log
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@352 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c1a333710f6fb2253bdc51ef2a19e57222a0b4da
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun Jan 17 14:31:46 2010 +0000
+
+    Upstreamed documentation patch both to master & stable.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@347 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 94c7c88a234194e55a34affd18126ac56b04a1a5
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Jan 15 18:52:14 2010 +0000
+
+    fix spelling error in man file
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@346 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 86bcd91c92be83f0952bc2710a25d0ede482fdb2
+Author: Denis Briand <denis@narcan.fr>
+Date:   Tue Jan 5 14:28:58 2010 +0000
+
+    add closes bug number
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@345 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7e9e25d6894c52ace4a04da270c5dbf41caefa22
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Jan 2 16:22:12 2010 +0000
+
+    No commas needed in English grammar.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@344 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b15cfa861f4a666eb082e86ba48ab66a250dc12a
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Jan 2 16:21:44 2010 +0000
+
+    New upstream version.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@343 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0ab99b1dd6d16d8f5f8dfd3d860979df3852760c
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sat Jan 2 16:20:31 2010 +0000
+
+    Updated the trunk to the new version of MC and removed the backported
+    patch for the editor crash since it has been already merged upstream.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@342 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 166b5848a06a5fb68dd4e1521e556b978a7e19ad
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Dec 29 16:14:33 2009 +0000
+
+    Updated changelog.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@340 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b6f50f4fbe058ca18e2a243f07d334e267e8321d
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Dec 29 16:13:35 2009 +0000
+
+    Updates file locations in rules.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@339 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit de2ad67a150bbf938442d9d25baedd5473d93c41
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Dec 29 16:06:50 2009 +0000
+
+    Added newline to the end of file.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@338 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 28b7c71cf74520c179cd71f957ae38fb9eb560a2
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Dec 29 16:06:01 2009 +0000
+
+    Easier to detect missing files.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@337 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 73533fc3fc3acaf5c69c84cd70796e3aac06f218
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Dec 29 16:05:10 2009 +0000
+
+    Cherry-picked bug fix for editor startup crash.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@336 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 52145e5ba83de2622ea6a5f6512c50f2386d07da
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Dec 29 15:51:25 2009 +0000
+
+    The configuration was not purged correctly.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@335 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit e75fa06e2e7f7fab314b42f49feef8c6313b84ed
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Dec 29 15:48:17 2009 +0000
+
+    Updated the list of files to be installed.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@334 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 50408777670cb3a86d8df049a9cbcbc0c32907b4
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Dec 29 15:33:57 2009 +0000
+
+    The TERM solution no longer works...
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@333 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0c765dbed26ce786c582394ae724ffcc5a50ff86
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Dec 29 15:29:38 2009 +0000
+
+    mc does not need these links, because it tries to find these files in
+    /etc/mc in the first place.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@332 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 5bbcc6f7e687ea975f5dabf9783d223c190834c2
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Tue Dec 29 14:46:58 2009 +0000
+
+    Charset is now enabled by default.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@331 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit fe7f03fabf81dbfc0be3bd11e6d262a2217cfeac
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sat Dec 26 14:24:59 2009 +0000
+
+    remove 85_add_djvu_files_support.patch merged upstream
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@327 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9dccaa4c275f7335c7a3834fa128e14fb21ef756
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Dec 25 22:26:51 2009 +0000
+
+    hold bugs/85_add_djvu_files_support.patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@322 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9f355d63d4900c82485f5338486e411c67f3e436
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Dec 25 21:57:37 2009 +0000
+
+    remove empty dir
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@321 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 33567f8cf4b08f3f95609480003794a93a9b71c5
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Dec 25 21:53:39 2009 +0000
+
+    4.7.O version is ready for test and upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@320 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 76b3e073faedc90f81f76cab63a51a4cf2f2d0f1
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Dec 25 21:37:53 2009 +0000
+
+    add python into suggests field
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@319 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 80e03ebd3c9626cd911026b8442449b541723804
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Dec 25 21:09:11 2009 +0000
+
+    increase version number to have an upper version for Debian archives.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@318 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0ea522b0ab5f7d57c1bd1d5cd2e1905c93f2b606
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Dec 25 21:06:34 2009 +0000
+
+    Add python-boto and python-tz into suggests field
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@317 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c46d556813404b76edbc8f3fdec505309a9ef10d
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Dec 25 20:54:27 2009 +0000
+
+    Add Yury V. Zaytsev into Uploaders field.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@316 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit cb97486f7a776808030f7fac675e0fe223b4d807
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri Dec 25 19:57:52 2009 +0000
+
+    Add changelog entry about removed doc patches.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@314 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d71cc26af83993a004345fd0a3b32a08ff9ba4b5
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri Dec 25 19:56:06 2009 +0000
+
+    Remove upstreamed man patches.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@313 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit eaa68fe4babb8fda29aadc580fcee5bd45cfebda
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Dec 25 19:52:11 2009 +0000
+
+    we work now on 4.7.0-1 version
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@312 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 75adccca7761fd200f04cfe9af97f458acd2ce60
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Fri Dec 25 14:31:46 2009 +0000
+
+    Pedantic case fix.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@309 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 28ea59adce616094ba15ef00e2ae32df19e7bb8b
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Dec 24 16:47:13 2009 +0000
+
+    update changelog (closes #562371)
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@308 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit fb7e31db05b21a663e74f06398c857b6cfdbaa92
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Dec 24 14:38:40 2009 +0000
+
+    new version is ready for test and upload. enjoy :)
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@307 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a6d6ed7cce7368d0dd4f6b1ff034a8a08a53a118
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Dec 24 14:35:38 2009 +0000
+
+    update patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@306 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ec27493101e0f0e521796692bda7af95e13c4d87
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Dec 24 14:19:08 2009 +0000
+
+    update man ru patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@305 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c6dc1b93befd7954dc9b48b5f010a9f194be0dca
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Dec 24 14:03:38 2009 +0000
+
+    add patch: use correct path for man
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@304 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 221ff474521a4ac124794033cdf11901ec38116a
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Dec 24 13:50:03 2009 +0000
+
+    add man patches and rm deb src 3 file
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@303 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d8143a8f9a3e4d45e9cfcb7ee1ffdb511ba34b76
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Dec 24 12:17:22 2009 +0000
+
+    add patch description
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@302 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit fbd1fb6214eebd45d76233519984d17fe3a90d35
+Author: Denis Briand <denis@narcan.fr>
+Date:   Wed Dec 23 23:19:47 2009 +0000
+
+    add deb src 3 file
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@301 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a85dba54890ed268b562f48df65b2e5c9f2a63fd
+Author: Denis Briand <denis@narcan.fr>
+Date:   Wed Dec 23 23:16:01 2009 +0000
+
+    fix issues with es man page
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@300 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1fc6551b766cb29cdb926064aeb6903dc8db35fd
+Author: Denis Briand <denis@narcan.fr>
+Date:   Wed Dec 23 22:09:36 2009 +0000
+
+    remove unused directory
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@299 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit be4dc93bf04c3fb78a61eff704ac17161fa33368
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Dec 17 20:44:34 2009 +0000
+
+    add patch description
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@298 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit feeaadc24c2bf1b60808aecc0d645a1657e10b7d
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Dec 17 20:34:09 2009 +0000
+
+    fit use_default_images_viewer patch to the new upstream source code.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@297 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b011355837e7d5087684c57ecd5e5678193bc4a7
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Sun Nov 29 19:41:26 2009 +0000
+
+    Removed VFS patch for an issue, that is fixed upstream for 4.7.0.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@296 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1e0483af2c15e08cdabc09625c696ec38fae880c
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Nov 12 12:23:23 2009 +0000
+
+    Fix temporarily an FTBFS (I must to check it before)
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@295 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2855b5321627df8775357310fbc8c8f2df04adbb
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Nov 12 12:19:14 2009 +0000
+
+    Switch to the new source package formats "3.0 (quilt)".
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@294 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit da5f9511d905049c6e6b70007e7aabb1154a99fd
+Author: Yury V. Zaytsev <yury@shurup.com>
+Date:   Wed Nov 11 21:26:56 2009 +0000
+
+    Removed
+    
+    02_ignore_ftp_chmod_error.patch
+    
+    because of
+    
+    http://www.midnight-commander.org/ticket/1708
+    
+    ... and updated changelog & quilt accordingly.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@293 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a70a9d92130ffba487e24b44a7e77477fb1f9fe5
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Nov 5 23:23:57 2009 +0000
+
+    move debian specific patch into patches/debian/
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@292 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a28967d46904fb5fe276ef76ec722bf2913a4a47
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Nov 5 23:19:13 2009 +0000
+
+    remove merged patches.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@291 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 314d52b9c45aa94554d4c6a72fe21b3af71b4698
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Nov 5 16:04:51 2009 +0000
+
+    update changelog with new version
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@290 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 6173227655e2474d8f8e49efdca50eb009754dfc
+Author: Denis Briand <denis@narcan.fr>
+Date:   Tue Oct 27 22:27:22 2009 +0000
+
+    NUMJOBS is now set by user (Closes: #549658)
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@288 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b482b1737c1318ca603b1d91ac7a2447a0e09449
+Author: Denis Briand <denis@narcan.fr>
+Date:   Tue Oct 27 21:58:02 2009 +0000
+
+    Improve series file
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@287 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b354d5a2ec8d36a9bf98c860bc71a7cd17b83b97
+Author: Denis Briand <denis@narcan.fr>
+Date:   Tue Oct 27 21:51:20 2009 +0000
+
+    move uzip_broken patch from patches/bugs to patches/debian
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@286 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ac62166a37964395afa2a4a5540de8c402f0395d
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Oct 25 11:45:50 2009 +0000
+
+    remove merged upstream patches, thanks to Yury
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@285 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4e2c28f954311a29cf92579d0455163515e6ac94
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sat Oct 24 18:37:10 2009 +0000
+
+    downgrade imagemagick dependency to Suggests. closes #550234
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@284 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 5ddf9f3407c791bafcb4ede9f7b8598788744559
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sat Oct 3 13:37:16 2009 +0000
+
+    Use sensible-editor to edit files. Closes #549202
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@283 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 20493db60a2ff41f9b6959915cdddd731d334d31
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Oct 2 19:36:34 2009 +0000
+
+    update changelog with new version
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@282 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a3a950a88b4c72b5065feadc7b6b9e0376dfa5b7
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Sep 25 16:29:56 2009 +0000
+
+    new upstream snapshot
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@280 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit f6a14aea1a89aeb930709c4df98cb80a28bafa55
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Sep 25 16:25:20 2009 +0000
+
+    add skins files config. Fix display issue.
+    remove mc.install.linux added by mistake ?
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@279 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9829ae9ca145943f1bcbe82ad10d8c2b7f5f8e35
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Sep 25 13:00:31 2009 +0000
+
+    add "DM-Upload-Allowed: yes" into debian/control
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@278 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d82b2b8eaf514a4fafa424ef762377d890db2526
+Author: Denis Briand <denis@narcan.fr>
+Date:   Mon Sep 21 19:49:26 2009 +0000
+
+    dvi patch better like this.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@277 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c344b158ffc4ec003c2d54c37cf62132ebfc8b79
+Author: Denis Briand <denis@narcan.fr>
+Date:   Mon Sep 21 18:51:43 2009 +0000
+
+    add djvu files support. Closes: #543651
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@276 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8478507105880ad46ccac214f044c571ef8c9e01
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Sep 20 20:22:33 2009 +0000
+
+    Add "Closes: #390301" into changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@275 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2d4ef3573d794089a4916df83a59b3fb64167351
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Sep 20 19:55:23 2009 +0000
+
+    add "Closes: #544996" into changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@274 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 41b47e53d85f04f6f7df39f465c43c980a1b8f20
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Sep 20 17:17:58 2009 +0000
+
+    use dvicat instead of dvi2tty to preview dvi files in text mode. Closes #543202
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@273 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2ac3fd59ea82851c3e9f32bfb5c38ae05cb03453
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Sep 20 13:14:38 2009 +0000
+
+    Suggest gv package to read ps file into X
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@272 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0b96db5155d3b8b5aff269988c9a8c75ec6fea47
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Sep 20 11:42:40 2009 +0000
+
+    add ico files support, closes #546737
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@271 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2d71cc33f74f78e511c84d60ee284b6e52878fa9
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sat Sep 19 12:58:14 2009 +0000
+
+    -we're working on a new git snapshot
+    -fit tarball name
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@269 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ca7137659416cac7af13e3037b245e8ed4a97301
+Author: Denis Briand <denis@narcan.fr>
+Date:   Mon Sep 14 16:30:05 2009 +0000
+
+    set to unreleased because don't ready yet.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@267 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit cb1e033e23ffebfb1840b8e4361082acb161ac3e
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 28 21:12:35 2009 +0000
+
+    escape few minus sign again into manpages
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@266 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8e7163980b3a5298a866092fc68c2821dc8b8e85
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 28 20:53:43 2009 +0000
+
+    * Change doc-base Document field into lower-case name.
+    * Change doc-base Section field into `File Management'.
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@265 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 024be59934db9438b1e36a4f832973bb7ec688a8
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 28 20:11:04 2009 +0000
+
+    update series file
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@264 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 84d42403a3006ec21cc66dbe4258399783cd19bc
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 28 19:55:44 2009 +0000
+
+    remove all merged patches with new upstream version
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@263 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 11a7e371ba8203b7a59202188e92952c369d64c8
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 28 19:31:16 2009 +0000
+
+    update changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@262 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit f0926d92da68179e0b66a455b1c93372beec6b5b
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 28 16:13:28 2009 +0000
+
+    use mailcap entry to choose images viewer
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@260 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7b4a7745db784496a748ac6325e42ecf39633728
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 28 15:39:54 2009 +0000
+
+    Use mailcap entry to choose pdf viewer
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@259 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 07b82931f3def828898518635e2310a980bb83e6
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 28 14:52:17 2009 +0000
+
+    Move mime-support into Recommanded packages.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@258 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8fcf0eef3d5efe28a5fa3c286189e806e3fe8f90
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sat Aug 22 12:06:50 2009 +0000
+
+    hack debian/watch file to fix issue with the new upstream repos
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@257 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit aaac1f05db135c93a0e474910d9271f45ba6879b
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Aug 20 13:59:07 2009 +0000
+
+    remove trailing whitespace in changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@256 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a6561bcb4044d83e25f0caf16b70f10e19375588
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Aug 20 12:16:20 2009 +0000
+
+    add README.source file
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@255 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c11b746ae237184065323fce0acb6f754a6f8b48
+Author: Denis Briand <denis@narcan.fr>
+Date:   Thu Aug 20 10:46:10 2009 +0000
+
+    bump standards version to 3.8.3
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@254 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 5dc8919a7b32c734a9ebb8c7aad6efaac456c883
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Aug 19 20:26:31 2009 +0000
+
+    Another patch which needs a rediff
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@253 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 081c9eb7d0f0c239f2122fe63280280ac547bf6e
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Aug 19 20:21:32 2009 +0000
+
+    Fix some more bugs and commented out one patch as it doesn't cleanly
+    apply without problems, it needs a rediff
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@252 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d7fa7e5307e509ab3f7db8035134362591c4f50b
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Aug 19 20:08:34 2009 +0000
+
+    Temp remove not working patch to test the others
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@251 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d4ec0601220d0891cb115b7892141c22f9a6ea97
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Aug 19 20:06:06 2009 +0000
+
+    Fix patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@250 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8283cab63c04e439a7f23d3fda22bb5081ee2293
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Aug 19 20:02:05 2009 +0000
+
+    Fix patch
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@249 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit e56ea4a221c98cd0c31471298d6f5d75f18a8478
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Aug 19 19:58:57 2009 +0000
+
+    Add some more patches from upstream to fix various bugs
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@248 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 266b28fcbec382a5510f23eec7117230e16f7530
+Author: Denis Briand <denis@narcan.fr>
+Date:   Mon Aug 17 13:53:45 2009 +0000
+
+    -change watch file
+    -update changelog
+    -cosmetics changes into changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@247 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9cf391d7ba2cc58a1793fe27e723b9f8af8c72a4
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 14 17:45:55 2009 +0000
+
+    Add comment into patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@246 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit fe0a8ef092ecf09b1ef6bde5cf294ae3721902a5
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Aug 14 17:27:52 2009 +0000
+
+    Add a small patch to fix the date issue in german locale (Closes: #541104)
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@245 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a209b6a5d1d1458a44a913ccb65858b86700fb69
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Aug 14 12:10:47 2009 +0000
+
+    Fix codejump when function (or var name) contains numbers
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@244 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 82e59ff96e69bb174b1385b5f39d7269ca66810e
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Aug 14 08:55:49 2009 +0000
+
+    Closing #541267: missleading description (SMB support)
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@243 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b8369acaf0041fb0a2f50d479d80f7b731bccf1b
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Aug 12 13:15:44 2009 +0000
+
+    Remove another patch temporary
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@242 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 26fbcbe2d5ed6f8a53ba38fc8a807a041a58760c
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Aug 12 13:11:00 2009 +0000
+
+    Remove patch
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@241 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0f3984a84c0fdac7493f59cbcab6d2ff5ff4098d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Aug 12 12:19:29 2009 +0000
+
+    Fix several problems fixed in git for 4.7.0-pre2 already..
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@240 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7d8d8f4e5b6479bfc42dcc58f8bb6bb03ee10f81
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun Aug 9 13:06:46 2009 +0000
+
+    Add bug nr.
+    OC
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@239 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d5a5e5ac86fec926c52d5cc86a855de10f13bb78
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun Aug 9 13:05:35 2009 +0000
+
+    Add small comment in a patch
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@238 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8597e50d4b5060a99e315e0aa5831e7a4fe4a7fb
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Aug 9 12:51:54 2009 +0000
+
+    remove trailing whitespaces
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@237 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c8c17798c73caa7aeddf75a0896118b8287edf40
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun Aug 9 11:05:16 2009 +0000
+
+    Another update of the patch...
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@236 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8d496c866ed3aeeec211b055a81caa2c532e4fee
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun Aug 9 10:43:48 2009 +0000
+
+    Refreshed once again
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@235 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit f7b3dafa139f385e4f45e00b660e368d5a5c1d15
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun Aug 9 10:41:07 2009 +0000
+
+    Refresh patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@234 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2c651351c689fbda0b4ae8854f116dec5c4a88c3
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun Aug 9 09:59:34 2009 +0000
+
+    Fix several issues in mc
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@233 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4a1e0e70a4ad90d05f574910dfd4d9cbf70a5fe9
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun Aug 9 09:14:50 2009 +0000
+
+    Add a small note into README.Debian
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@232 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a14b5ab078aa8eeceb79d74fa320b529a2ecca9a
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sat Aug 8 20:42:13 2009 +0000
+
+    -remove trailing whitespaces
+    -fix lintian warning `debian-changelog-line-too-long'
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@231 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d58f899fcdf30e84edc0061d67e8468ecd89c641
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Aug 8 10:46:57 2009 +0000
+
+    Fix escape of ~ on cmdline
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@230 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b97a8d9a7e452c5e3e25678470eb2b9606f5d8a4
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 7 12:06:14 2009 +0000
+
+    add patch...
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@229 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit df6e7a8bcd68ae000ce192b92ce5c81270c96339
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri Aug 7 12:05:25 2009 +0000
+
+    fix wrong path to wrapper scripts (closes: #540238)
+    update patches/series file.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@228 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a4890de107ff68bb6b9f0b445c3558d0a6573300
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Aug 7 10:52:23 2009 +0000
+
+    Fix information dialog linefeeds
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@227 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit abb68042b36e0dfa93f46090fcb77f9d31ed0093
+Author: Denis Briand <denis@narcan.fr>
+Date:   Wed Aug 5 19:33:46 2009 +0000
+
+    move cdbs branch into trunk, we work now into trunk/
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@225 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2daf6b5d84e3469ff29e875416a6d259ce051245
+Author: Denis Briand <denis@narcan.fr>
+Date:   Wed Aug 5 19:32:15 2009 +0000
+
+    remove old trunk working area
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@224 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 40e1f2eaa64e60284260eb759f2daa1267bdc677
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun Jun 28 20:17:00 2009 +0000
+
+    Add imagemagick in Recommends for mc binary package (Closes: #534681)
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@201 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit bd17025948b25aef761cea46015e6631732fd988
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sat Jun 20 12:53:14 2009 +0000
+
+    bump standards version to 3.8.2.0
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@200 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1f39d60e407f9b5c621b8558862678789898bbac
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri May 22 21:12:43 2009 +0000
+
+    add closed bug in changelog (#517741)
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@194 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1e14540a1f23978fc6cbe89708d82adfe0093eaa
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri May 22 20:10:36 2009 +0000
+
+    add a closed bug #505133 about port number in shell link
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@193 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit fbadf507d3fb444e214d8cea66ac541ad7455808
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri May 22 16:47:51 2009 +0000
+
+    update changelog with closed bugs for next upstream git snapshot
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@192 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 73771446734bac0ed517a133e37669ccfa0fa78e
+Author: Denis Briand <denis@narcan.fr>
+Date:   Fri May 22 15:43:01 2009 +0000
+
+    remove utf8 quilt patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@191 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 309922e4e678bd017e5dc25812e75c4950178692
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun May 17 13:53:32 2009 +0000
+
+    add quilt patch comments, fix informational lintian issues
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@190 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d6591bfecf3885ab62289416f796135b4ab43f0b
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sat May 16 22:27:04 2009 +0000
+
+    update changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@189 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 5a50b24243742edee779047c6ddd7fba5b9512cf
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sat May 16 22:23:33 2009 +0000
+
+    Fix FTBFS issue Closes #528983 RC bug
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@188 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b4694fc95d4929f489c61290d6f9756f0ebe39c6
+Author: Denis Briand <denis@narcan.fr>
+Date:   Sun May 3 12:56:00 2009 +0000
+
+    * move trunk/debian/patches/all.series into trunk/debian/patches/series
+    * bump standards and compat and fix lintian issues
+    * add co-maintainer (me)
+    * changelog updated (see it for more details)
+    ---> Denis Briand
+    
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@187 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 67b3da7f41950562d6f1fc6ac3ecf68e772eff0d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Mar 17 11:21:20 2009 +0000
+
+    update changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@186 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit bc90099985226b347736e4f36f3676935f0e485f
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Mar 17 11:20:39 2009 +0000
+
+    Change SEction for -dbg package
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@185 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 69fc27b9d82539d6ad63b4249d2e16b381e4f475
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Mar 17 10:11:30 2009 +0000
+
+    Fix target
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@184 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4409433e824eb9903c2b21fba54fe464d48f52cd
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Mar 17 10:10:38 2009 +0000
+
+    update mc.pot before building mc
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@183 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 816437cded2bf2ff53b43c9ba0d93b98cf81d163
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Mar 17 09:52:44 2009 +0000
+
+    Add new changelog for upload to debian
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@182 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7faeb0c0ca1691939c61b1525f198ff600d43b3a
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Mar 16 08:46:12 2009 +0000
+
+    Create .gmo files
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@181 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 6a09daf492138d683834010b41aa7581c286ccbc
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Mar 13 12:44:04 2009 +0000
+
+    urgency=high is not needed..
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@180 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit aad91aaa013a2ac9c2d00b891cba4dc7e8995e38
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Feb 2 21:38:21 2009 +0000
+
+    This shouldn't be in post-patches
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@179 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 209d1a9fdc0a1e8355b2de2270f69877bc9ec863
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Feb 2 17:18:35 2009 +0000
+
+    Removed autogen-run.patch .. it is no longer needed
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@178 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b75bf295ae3f0aac3fa129c85389807b7be8c00b
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Feb 2 17:16:47 2009 +0000
+
+    Some more changes for 4.6.2
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@177 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b495e2e951f7080e6129c8dbe4bdc1aab82a993f
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Feb 2 16:39:39 2009 +0000
+
+    Added new utf8 patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@176 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a0e1fe03d1b49020d15fec3c2dfbf998cdb89e2f
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Feb 2 16:03:48 2009 +0000
+
+    Prepare for 4.6.2-1 upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@175 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0e8403a3f848caac3b18a810899c539b19901c04
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Sep 16 10:08:57 2008 +0000
+
+    Bump urgency, this should go to lenny
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@174 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit cfcfa3ccae6f199cd385371784420743b076e362
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Sep 16 08:03:51 2008 +0000
+
+    Updated patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@173 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1911cad0424193d7fb1ad4a4e237110f698b8aec
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Aug 29 12:15:12 2008 +0000
+
+    bump urgency
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@172 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ddaa2090a808e51022b07825a8781ab09bf17ba5
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Aug 29 12:14:46 2008 +0000
+
+    Fix bug now really
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@171 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a5d3d0d9bb08d5bef9972204afd1358be7305122
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Jul 26 09:49:08 2008 +0000
+
+    Fix bashisms.. and upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@169 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ffaa907da6b4000e2d6c46fbfbe2819cbd197e8f
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Jul 26 09:13:32 2008 +0000
+
+    Some more fixes
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@168 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c47ac20abf2a0e80a9c4e43cd96b2ae10396e3a1
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jul 21 21:47:06 2008 +0000
+
+    Remove tdmc_tar as this is not yet implemented... no time yet.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@167 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a2f36331cd335f9257f6e357b466ea8f4b44c28f
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jul 21 20:43:04 2008 +0000
+
+    Fix another bug
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@166 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 6578457ee90ad95be690ae66efdf92b8968a0a8c
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Jun 28 15:15:26 2008 +0000
+
+    Prepare for upload of -3
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@165 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8395f1f2846a26479a015c6a8f12ea88735a136e
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Jun 24 16:21:44 2008 +0000
+
+    Prepare upload after ftpmaster let it into the archive
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@164 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a59390a3b7d0b914628253db748a7b7c71742db4
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Jun 24 10:11:02 2008 +0000
+
+    uploaded to debian and started new version
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@163 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0aa86f1609389d18a5219ca649d7b166305e8ba6
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 23 20:20:43 2008 +0000
+
+    Fix order
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@162 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 51bc736eeaa7c6f94c3096dc86d694a9b8fb8f72
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 23 20:16:26 2008 +0000
+
+    Fix some more issues
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@161 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8957576724963cd16fa963426f5bf49a6cc588ef
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Jun 21 13:13:53 2008 +0000
+
+    Not necessary anymore
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@160 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 6ffcd1519b0ca9ffdc2af6be1a09838205db2f55
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Jun 20 22:06:04 2008 +0000
+
+    Fix another bug
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@159 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit beebe0b6666cecaaeecfe0596c134b2a16b5b88a
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Jun 20 21:22:06 2008 +0000
+
+    Fix lintian warning
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@158 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 3f076d419cca65ef556b57545559fc0efdcafb53
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Jun 20 18:59:17 2008 +0000
+
+    fix #486915
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@157 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 91b12d435a0fe8e6d170cba60e9d4fac12dd7cdb
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Jun 17 13:09:44 2008 +0000
+
+    Another bug ...
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@156 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 82f009e12caf5b0611dbe0caf8fa2b216f2cb487
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Jun 17 13:03:06 2008 +0000
+
+    fix another bug
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@155 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8ff9d0eb25c42e4fb29d81d38c1a0e463b8447b5
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Jun 17 12:26:00 2008 +0000
+
+    Fix some more bugs... 10 atm for the next upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@154 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 91d343092dadcb1d26f8a725596fe5b5ab8056bd
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Jun 17 12:15:51 2008 +0000
+
+    Some more bugs which will be fixed within this upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@153 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit fea25f2dc13444ec7714a9b2e104591d1a5cb277
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Jun 17 11:02:59 2008 +0000
+
+    make configure executable
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@152 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 5103d1584b94fbaa39ed0c180d980c91c48d1916
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Jun 17 10:55:34 2008 +0000
+
+    do not run autogen.sh ... it will fail if package is build twice in a
+      row
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@151 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1badd525d3f3ac710bbceaa74ce5385b40648cd7
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 9 16:48:16 2008 +0000
+
+    This file is called debian-description.syntax
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@150 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit e719e9d5f15dd661c86f89a1fce5445eab9fcf31
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 9 16:38:54 2008 +0000
+
+    Add patch for important bug
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@149 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 48ef540fc55e20f889e89f6c365d666ec257d49d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 9 16:38:19 2008 +0000
+
+    Ask for help in changelog
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@148 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 3c5fd2a74f4ecca0f7b763d5523ee5253cf13015
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 9 16:18:50 2008 +0000
+
+    Remove failing part
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@147 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0b86364b400fabe06c21254280d9348a50bdc956
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 9 16:15:07 2008 +0000
+
+    Close another bug with this upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@146 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8c3d0da67fb7959c2253d4c62b2ecf5d8f6729ae
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 9 16:10:15 2008 +0000
+
+    This have to be a dot
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@145 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 234864d544c98ac105ec9d2cbedae547cc2ea6b9
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 9 16:04:43 2008 +0000
+
+    Refreshed recode patch to make it apply
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@144 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 65807095f8f16966844c2836c9b58f89ce8efdff
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 9 15:59:59 2008 +0000
+
+    Remove patches of Makefile.in's
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@143 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 64ec329f3d184676acfe99ef9b56eacb3d5bd680
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 9 15:50:06 2008 +0000
+
+    some more changes for the next upload^
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@142 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7af6f8156fcd75b3ffb829b6f35e9152c1b077d1
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jun 2 21:36:15 2008 +0000
+
+    Prepare for new upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@141 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 69603e78084a270dd6d9ad5dd2a033934802073a
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu May 22 15:13:49 2008 +0000
+
+    Add patch to provide -dbg package... note fore myself: mc must go through new..
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@140 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 106b20d7241bedfcb80063f667d9b254b4ca0856
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun May 18 20:19:30 2008 +0000
+
+    set u unstable
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@139 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b295e363743d87dc92e595578230836b9c305b7f
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun May 18 12:58:18 2008 +0000
+
+    Fix version string
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@138 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit aff7aa10692f30ce7a8bea96c1def06492b2c55a
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun May 18 12:27:44 2008 +0000
+
+    fedora--> mandriva
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@137 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c20c3c4f6549eb4e4ff55b81548cb61410875433
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun May 18 12:13:11 2008 +0000
+
+    MAke this patch apply
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@136 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 46a03d98cd3cbfce22c396d333105918499ca787
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun May 18 12:08:57 2008 +0000
+
+    Some more changes
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@135 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 70f6664516724da591ea6371e52296c740163c0a
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat May 17 18:17:14 2008 +0000
+
+    have to be t he last patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@134 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 40aadf02c20e0e88cf52815006108392353e4217
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat May 17 18:16:27 2008 +0000
+
+    Add some more fixes for bugs in the BTS
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@133 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7c9501ac5766aac2627f2209b01df989c23abb94
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat May 17 17:35:18 2008 +0000
+
+    switch patchtool and some other stuff for next upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@132 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 72797b3a9303cd8da7034863e9e4e4bf391d21e0
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Apr 9 17:51:04 2008 +0000
+
+    Fix some bugs...
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@131 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2ee0f0410c472417992ef1a459bde0b07af215f0
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu Mar 6 23:56:40 2008 +0000
+
+    forgot commas
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@130 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 3aef3f480473d75aa596bb8173ba7b0891cd7293
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu Mar 6 23:52:00 2008 +0000
+
+    First attempt to fix the reported issue
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@129 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 3af8b9a8e51e0094cef2bac510875cee19453d62
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu Mar 6 16:31:19 2008 +0000
+
+    Start new changelog entry
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@128 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit cd19491b30d70254b489097cdc91f8d12437966d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu Mar 6 10:21:35 2008 +0000
+
+    Write changelog entry
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@126 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2a92af7299825ba1947edc3fa68c4ab1c0890900
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu Mar 6 08:43:47 2008 +0000
+
+    Add some more things to escape
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@125 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c6ccb92274a49f6a35448cfb927cc52f852fe825
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu Mar 6 08:31:50 2008 +0000
+
+    We have to allocate everytime one more byte...
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@124 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ca190fb465c71beed89e9ab93b4720270a242644
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Mar 5 21:31:20 2008 +0000
+
+    Added patches
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@123 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit cd9b5c7ddb41dca9153d1418b99625ea7790779c
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Mar 5 10:10:45 2008 +0000
+
+    Add comment about M-o and clean up README.Debian
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@121 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 36c09693b722c747c70c5fd8f76c219aac4cbd4d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Mar 5 09:55:53 2008 +0000
+
+    Fix another bug and prepare for upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@120 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 6c1ee990d07284098d4a0d1882ab7ac07a69cb76
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Mar 5 09:24:09 2008 +0000
+
+    Fix two bugs
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@119 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 34b61227b4945ef270c01368885c10ef04a3aa43
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 19:50:33 2008 +0000
+
+    Added in patches
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@117 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 05cd65e3fb1088490fc92f637c7d3d0847d5c6f3
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 19:48:53 2008 +0000
+
+    Add patch for #466476
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@116 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit f9b846cf91540c4f84d278662f14b7bd43a52832
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 19:21:25 2008 +0000
+
+    Add patch which was sent to the bts
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@113 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d0d1ddeb7760eaf6835ec864799626306d4e668f
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 19:20:35 2008 +0000
+
+    Merge from utf8 branch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@112 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 696d585b3054cce4ce32c239120de71a8600dc0d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 18:21:21 2008 +0000
+
+    Same here in trunk
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@108 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 3faff5f44fc5e5557f9a96dd609685926dc7685b
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 18:16:40 2008 +0000
+
+    Same as before but now for trunk
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@106 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d2e7e4a445d2185332065a1808993e3537f21a08
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 17:07:42 2008 +0000
+
+    one is used now as patch..
+    the other one belongs only into the newutf8 branch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@102 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit f3815ba9e98d8e220c5b57ca2ecb835c3e0a120d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 17:04:45 2008 +0000
+
+    Prepare for upload to unstable and experimental
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@101 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9d33f27d7cd84e79bfc5d0e1633124bc7a49e19d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 16:32:01 2008 +0000
+
+    Finally fixed
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@94 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4fe052e30e4a812ac0206b060aa4506b254a497e
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 16:23:37 2008 +0000
+
+    typo
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@93 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d6f30e148ec16f3bbe5734bb0ac94e4fcaa8d9a4
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 16:15:44 2008 +0000
+
+    Fix whitespace issue
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@92 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 5527ee235e272ea1006f89a8b447b55ab8d3207c
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 16:05:00 2008 +0000
+
+    Modify patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@91 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 05bc4df950ae5dd953219f42398a788c9bbc1603
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 16:00:48 2008 +0000
+
+    Only include the absolute necessary things
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@90 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 51039e87ce5ea191d7f6b851989e8485aa925df6
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 15:50:22 2008 +0000
+
+    New try to fix this issue
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@89 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 6f5cc000d4a22ce691d44267da615a01b0d5d954
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 15:44:49 2008 +0000
+
+    Modified patch for the escaping issues
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@88 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d6e2db5ea85972f94e070dd8f74f54b7494b141c
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 13:08:12 2008 +0000
+
+    There have to be before this patch another one.. so rename it.. and add it to new-utf8 also
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@86 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1d78419f6ba3e52ce363e611c33425c05dc82fa4
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 13:04:13 2008 +0000
+
+    Fix #461532
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@85 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 93dc0649a12a953242fb5b360cc0245a446f2f53
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 12:07:54 2008 +0000
+
+    Some other char to escape... rediffed for utf8-new
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@84 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2ad75520b40730a9b7ea44e8b9bd34c1078dd243
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 12:02:58 2008 +0000
+
+    Rediffed for trunk
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@83 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit e063b68cb45db8950019e2142ce61418bf067287
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 11:54:50 2008 +0000
+
+    This is included in old utf8 thingi
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@82 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 6cb1bd3f66d171d85e0f8c247714d119e8f6897d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 11:54:06 2008 +0000
+
+    Merging back escaping fix
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@81 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 320c1f682a80770fbf4c5b300becd93067f3ec5b
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 11:52:19 2008 +0000
+
+    Revert for further uploading.. uploading to exerimental will be done from new-utf8 branch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@80 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 434f4540f128f29112dce7e8721b3a684c926e92
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 10:28:08 2008 +0000
+
+    Revert
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@77 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0c634bb1d191db52cfd2d317a1377186b7346013
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 10:18:13 2008 +0000
+
+    forgot one $
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@76 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit fced8f399ca140ebce41613894af06d16ed577c8
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 10:14:54 2008 +0000
+
+    Try a bit
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@75 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4b3f605d986ab1335658077e8df9dcdc56b708bf
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 09:42:20 2008 +0000
+
+    Patch from Rostilav Benes on mc-devel to fix copying to fs with other encoding
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@74 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit f9cf9dd77f9e67e5cb74a3781bdaed11737de14f
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 27 00:33:43 2008 +0000
+
+    Add patch for two bugs
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@73 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7c22676bf73749aefb68a8359926f98068768736
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 23:40:31 2008 +0000
+
+    Fix FTBFS if build twice in a row.
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@72 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d2b0594184386dd94fe2fb167c894a694e0ca590
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 22:50:17 2008 +0000
+
+    fix hostname displaying in xterm title
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@71 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 15a75c30fd7a1ae70a5adbff393be7510fdb5d91
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 20:07:48 2008 +0000
+
+    Add changelog entry
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@70 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 3444de4fafa1517cc50e1b889723a9381b711ba2
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 20:06:34 2008 +0000
+
+    Add tag
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@69 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 666249a994b7b11fb8fcd12e8c3f436e849603cb
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 20:06:00 2008 +0000
+
+    This patch have to be reverted atm
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@68 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1507a069e2c68d8a355533eb44dfb8b30b9ac18f
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 19:18:12 2008 +0000
+
+    Remove closes... since this is a upload to experimental
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@67 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ec525512cffc3fa3525859fc3c832e4334d5dbc5
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 19:11:36 2008 +0000
+
+    Remove not working patches from patches... they have to be fixed later
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@66 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 47e1ecb08a8515a5be747dfc8ac62a44c250aecf
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 18:34:04 2008 +0000
+
+    Add folder with patches which should be integrated sometimes...
+    atm the switch to a better utf8 is more important than hostname in the xtermtitle...
+    this patch has to be rewritten for the new utf8 patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@65 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 91d907ecec2d4fbd457ea3c6f7b6fa26e1a1c498
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 18:14:39 2008 +0000
+
+    Remove ncurses patches, we use slang
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@64 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8d41eb03843e0345d3b09a4724c0d780c24f1bd9
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 17:59:25 2008 +0000
+
+    This have to end on .patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@63 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 998054d64f171ebb5501417b4ee0285cf96130ea
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 17:55:41 2008 +0000
+
+    Add changelog entry... atm mc doesn't work with the new utf8-patches, but I'll try to find the issue
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@62 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d74d3281a9957b423710853aa4b294c7f6c4cec3
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 17:43:43 2008 +0000
+
+    Some more renaming
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@61 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit fb0d55fe37f40908ae761ffb32dea19bb0a1d5cc
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 17:36:51 2008 +0000
+
+    Some more reordering
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@60 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 6924c940913739035c8e644a3287bf84f5d4f9b4
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 17:33:48 2008 +0000
+
+    Several fixes and reoder the patches
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@59 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c96c24a820efe5a9edf20a3bd12975d7e97cded4
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 16:11:41 2008 +0000
+
+    Switched to new utf-8 patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@58 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0f00a4b6e6919f0ade6690ed915fc2712e2d2fbb
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 16:04:09 2008 +0000
+
+    What the heck is wrong with that patch?!?!
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@57 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 1696708953e36f9dc0d0eb6acc3d5a936ec6fd08
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 15:50:27 2008 +0000
+
+    Add patch
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@56 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c302176df214d35b02bf5fb902abbc6a4b052c92
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 26 13:27:36 2008 +0000
+
+    Add patch for problem
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@55 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b0bc593a69f8a9cda3626f8d92509f2e25f11eca
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Feb 25 19:55:56 2008 +0000
+
+    Prepare for upload for -4
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@54 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 520f4d4c0d1a80f1c1d9e6dfeb52fbfe7f471118
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Feb 25 19:55:23 2008 +0000
+
+    Add changelog entry
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@53 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d7c89a88504bfb1a6d0af2da05c3a32075871cc4
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Feb 25 19:41:55 2008 +0000
+
+    Add patch for chmod issue: Closes: #466370
+    Add patch for some regex things in mcedit
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@52 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 310acd32d808c59eb86e4b38d4353921a7ce6bab
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 19 21:26:55 2008 +0000
+
+    Rediffed and added makefile entries
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@51 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 79c4d3360ad0ef947da30845888a84b412387b60
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Feb 18 07:50:20 2008 +0000
+
+    fixed a old changelog entry
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@50 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 5189a44b46d56be68913957ce2818a84eaa66bf4
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun Feb 17 23:13:01 2008 +0000
+
+    Start new changelog entry for -4 upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@49 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit c09f9ec6bec324579fea3331387087804fb68190
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun Feb 17 09:45:56 2008 +0000
+
+    Switch back to suggests
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@47 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit bff79c858ed9886449e4819be198302cdbdeb67d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sun Feb 17 09:44:07 2008 +0000
+
+    Fix #466199
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@46 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b2c6abcc5f7e39881584466f4f43b93485b6cc24
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Feb 16 18:24:47 2008 +0000
+
+    Run some things better in the background
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@45 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 07dd6d914b8e7119acb9115d36e3a41aafc4a841
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Feb 16 17:19:55 2008 +0000
+
+    Closes #442024
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@44 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b932e10236a22b781e2d1b4f5c43c91d8897640a
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Feb 16 15:55:34 2008 +0000
+
+    Add named.syntax
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@43 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 29bb8e5b4ea66d1e305f339b191fd7d1737ea0f0
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Feb 16 15:49:48 2008 +0000
+
+    Silly typo
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@42 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit da748c21e98cb116fc78e305fef68ec62aa45dbf
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Feb 16 15:42:00 2008 +0000
+
+    do not only use w3m
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@41 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ccbdb1270b0c591b056f19122683e90f75efd1ed
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Feb 16 15:24:53 2008 +0000
+
+    The first rule mathces.. so this have to be fore the gzip ones
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@40 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a8b6aa21992d5d2d61fa2aad2e0329b77f7ef73c
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Feb 16 13:24:41 2008 +0000
+
+    Add several patches from bts
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@39 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit b7a26e0c2fb52124f120eadd3247123dfeb9c144
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Sat Feb 16 13:04:55 2008 +0000
+
+    Close some more whishlist bugs which were easy to close
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@38 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit fb67d91cf8da78f081a028a053379b93342c0f1a
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Feb 15 09:06:38 2008 +0000
+
+    Fix uzip errors
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@37 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a7c55ed854b49f0446d92b60f338fb4f991ddd2b
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu Feb 14 07:29:39 2008 +0000
+
+    Fix another bug
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@36 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 86043b6cd1352bb4461ed8d8aae46c76ca5bac44
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 22:02:28 2008 +0000
+
+    Prepare for upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@34 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 2df34070be19e09377266b2d8c437d6b7e2f80d9
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 22:00:43 2008 +0000
+
+    Fix some lintian issues and language things
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@33 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit bb48df2fbb438b1944e9a3bfa12aa34c8529253f
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 21:37:57 2008 +0000
+
+    has to be tabs
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@32 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 79eac39813897e5dace5967a33196648f631cf3d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 21:36:26 2008 +0000
+
+    Build de,it,ru.gmo files
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@31 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7b2db8e89e846fe765931a1aff0df6cde51b3590
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 20:59:03 2008 +0000
+
+    Fix copyright
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@30 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ca02635bc169fac61b9ec1865e486b0927cc0019
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 20:55:44 2008 +0000
+
+    Forgot changelog entry
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@29 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 80662fc2bbbaabc87a56347526298a8d1499b613
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 20:55:06 2008 +0000
+
+    Fix menu
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@28 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit d30a7cd0c2814bed75994fa63e58dbe93ac0068d
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 20:29:09 2008 +0000
+
+    4.6.2~pre1 should be ready for upload
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@27 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 196520b020efe5f2d5a96700dd91b27202c5ebcf
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 20:04:08 2008 +0000
+
+    Fix call of do_select_codepage in editcmd.c
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@26 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 53a214b5bda1b0d0a5caff2feebea03cd9dc5d9e
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 19:45:28 2008 +0000
+
+    This time really
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@25 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 4f0a2b9df8488b02948cafbdc56d1f7a8d68fd18
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 19:35:13 2008 +0000
+
+    Add fix for ftbfs
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@24 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 3be58a7cdd7e52f21edc63a36fa7827119057da0
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 16:22:18 2008 +0000
+
+    Forgot to add
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@23 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit abb349b1aae6573b73a3e8cac5e429faabf26c15
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 16:17:54 2008 +0000
+
+    more changes
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@22 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 0d8b8785d944c11d9b7ebe8903c190ec084baf66
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 15:16:48 2008 +0000
+
+    fix a very old bug and include more closes...
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@21 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit e09928e0ae489f9a93e393fd766d9d21b98fced6
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Wed Feb 13 12:43:09 2008 +0000
+
+    Add more closes
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@20 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 647417f29b4d0bac1cb96e39e431ed93b15914f9
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 12 21:40:30 2008 +0000
+
+    List the bugs which are closed by the uplaod
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@19 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 44a486e30de7f9656ceaa8874e976c81321f2bda
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 12 20:55:23 2008 +0000
+
+    Modified 60_recode.patch but this has to be reviewed...
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@18 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9fd98b21d0fc783edf27ef2165570dd11ac2dadf
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 12 20:04:39 2008 +0000
+
+    This is actually the same thing
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@17 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 9a49e04c7e259904bd4dfd2a1733d32b43066d80
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 12 20:03:39 2008 +0000
+
+    Add/remove patches
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@16 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit a8c4d97d7042e3bf2446843698912180d92c6012
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Tue Feb 12 19:02:31 2008 +0000
+
+    two more patches
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@15 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 63aa47e721fcf525993141974a69785d6c633a4c
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Jan 25 09:06:51 2008 +0000
+
+    Deleted one surely not longer used patch and one where I'm not sure
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@14 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 3b58a9311a9c85e6d03fcba132205930c8a64a1c
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Jan 25 08:58:35 2008 +0000
+
+    Some more rediffed patches
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@13 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 7a20c87ac3f395372de5c2f4f0e2cb6384607981
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Fri Jan 25 07:35:37 2008 +0000
+
+    Work further on patches
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@12 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 152f33f8a5b6b35ae267a73572a41c78052bb3e1
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu Jan 24 23:47:13 2008 +0000
+
+    Add/remove Todo points
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@11 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 540d67d61d3e77cbf0999c48d23a58139c5d911a
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu Jan 24 23:26:23 2008 +0000
+
+    Work further on patches
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@10 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ef80b3930b47ef9b5d274267e9d844c262729378
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Thu Jan 24 23:07:53 2008 +0000
+
+    Rediffed some patches for mc 4.6.2~pre1
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@9 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 8e21d049e3137fb24453ad76ee61d0a0253efcd2
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jan 14 15:56:35 2008 +0000
+
+    Correct maintainer
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@8 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 01e9efee24f9e6a497f57242335a72e1dc483006
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jan 14 15:50:39 2008 +0000
+
+    Do some fixup
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@7 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit ce403b4557ce7f97db989e2b35c7264569df5f8a
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jan 14 15:38:09 2008 +0000
+
+    Check in the debian dir of the mc revision which is in unstable
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@6 1da7b59f-b76e-4e7a-8c78-615837a07e4c
+
+commit 6a299620f9cabd9f2bad1f6bd1fc81d6709c4ac8
+Author: Patrick Winnertz <winnie@debian.org>
+Date:   Mon Jan 14 15:29:31 2008 +0000
+
+    Removed wrong layout inserted by svn-inject
+    
+    
+    git-svn-id: svn://svn.debian.org/svn/pkg-mc/trunk@5 1da7b59f-b76e-4e7a-8c78-615837a07e4c
